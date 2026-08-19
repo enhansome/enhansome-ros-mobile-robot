@@ -1,19 +1,661 @@
 {
   "items": [
     {
-      "description": "🏬 Robotic Companies",
-      "items": [],
-      "title": "11-1_Famous Robotics Related Company"
+      "description": "🤖 ROS Robot Overview\n🚘 Wheel Robot Configurations\n(ref: Siegwart, Roland, Illah Reza Nourbakhsh, and Davide Scaramuzza. Introduction to autonomous mobile robots. MIT press, 2011, Table 2.1, p.34~36)\n🚗 Race Car Projects\n🤖 ROS Mobile Robot Github\n🤖 ROS Mobile Manipulator Github\n🤖 ROS Manipulator Github\n💻 Processing Unit (SBC/IPC)\n🕹 Motor & Controller & Encoder",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"turtlebot3\": https://github.com/ROBOTIS-GIT/turtlebot3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61611248,
+            "language": "C++",
+            "last_commit": "2026-06-15T11:50:39Z",
+            "owner": "ROBOTIS-GIT",
+            "repo": "turtlebot3",
+            "stars": 2042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Robotnik XL-GEN\": https://github.com/RobotnikAutomation/summit_xl_sim",
+          "description": "or summit_xl_common",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23066201,
+            "language": "Dockerfile",
+            "last_commit": "2025-04-07T07:48:25Z",
+            "owner": "RobotnikAutomation",
+            "repo": "summit_xl_sim",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Robotnik RB-KAIROS\": https://github.com/RobotnikAutomation/rbkairos_sim",
+          "description": "or rbkairos_common",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106810690,
+            "language": "CMake",
+            "last_commit": "2024-05-03T12:10:25Z",
+            "owner": "RobotnikAutomation",
+            "repo": "rbkairos_sim",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Universal Robot 3/5/10/e\": https://github.com/ros-industrial/universal_robot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8745199,
+            "language": "C++",
+            "last_commit": "2026-07-20T12:26:36Z",
+            "owner": "ros-industrial",
+            "repo": "universal_robot",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Franka Emika panda\": https://github.com/frankaemika/franka_ros",
+          "description": "https://github.com/ros-planning/panda_moveit_config",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103703868,
+            "language": "C++",
+            "last_commit": "2025-10-24T12:13:31Z",
+            "owner": "frankarobotics",
+            "repo": "franka_ros",
+            "stars": 487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Techman Robot\": https://github.com/kentsai0319/techman_robot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67381423,
+            "language": "C++",
+            "last_commit": "2021-03-16T09:51:08Z",
+            "owner": "kentsai0319",
+            "repo": "techman_robot",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "2_Robotic_Platform"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "description": "📷 RGB Camera\n📸 RGB-D Camera\n🎥 Stereo Camera\n🔦 Laser Rangefinder [laser scanners] [scanning rangefinder]– often represent 2D laser scanning\n💡 LIDAR [light detection and ranging] [light imaging, detection, and ranging] [3D laser scanning ]– often represent 3D laser scanning\n🍎 IMU [inertial measurement unit]\n🚨 3D Scanning & Novel Sensing Device\n🎙 Microphone Array\n🔊 Text To Speech (TTS)\n🗣 Speech Recognition / Speech To Text (STT)\n🚀 Vocal Assistant\n👾 Matrix Barcode (Fiducial Marker Systems, or ARTag, or Auxiliary marker)\n🔅 Learning-Based Feature Extractor\n🔅 Learning-Based Object Detection\n🔅 Learning-Based Human Pose Estimation",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"Intel RealSense d455/d435/d435i/d415\": https://github.com/intel-ros/realsense",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52400453,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:12:59Z",
+            "owner": "realsenseai",
+            "repo": "realsense-ros",
+            "stars": 3417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Microsoft kinect one/v2\": https://github.com/code-iai/iai_kinect2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23793845,
+            "language": "C++",
+            "last_commit": "2023-04-13T21:51:57Z",
+            "owner": "code-iai",
+            "repo": "iai_kinect2",
+            "stars": 896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Asus xtion with openni2\": https://github.com/ros-drivers/openni2_camera",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9636556,
+            "language": "C++",
+            "last_commit": "2025-05-22T17:37:49Z",
+            "owner": "ros-drivers",
+            "repo": "openni2_camera",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Microsoft kinectv1 with openni\": https://github.com/ros-drivers/openni_camera",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7418625,
+            "language": "C++",
+            "last_commit": "2024-08-14T10:31:48Z",
+            "owner": "ros-drivers",
+            "repo": "openni_camera",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Microsoft kinectv1 with freenect\": https://github.com/ros-drivers/freenect_stack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8613886,
+            "language": "C++",
+            "last_commit": "2020-03-19T14:20:43Z",
+            "owner": "ros-drivers",
+            "repo": "freenect_stack",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"OpenPose\": https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89247811,
+            "language": "C++",
+            "last_commit": "2024-08-03T01:59:11Z",
+            "owner": "CMU-Perceptual-Computing-Lab",
+            "repo": "openpose",
+            "stars": 34373
+          }
+        }
+      ],
+      "title": "3_Robotic_Sensing"
+    },
+    {
+      "description": "📷 Camera Calibration (Intrinsic and Extrinsic parameters)\n👁 Hand-Eye Calibration\n🍎 IMU (Sparkfun Razer 9dof-razor-imu-m0) Calibration",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"Github Wiki\": https://github.com/Razor-AHRS/razor-9dof-ahrs/wiki/Tutorial",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12664558,
+            "language": "Arduino",
+            "last_commit": "2020-12-28T15:20:08Z",
+            "owner": "Razor-AHRS",
+            "repo": "razor-9dof-ahrs",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"My Calibration Guide\": https://github.com/shannon112/imu_calibration/blob/master/README.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194861507,
+            "language": "C++",
+            "last_commit": "2020-07-29T16:38:14Z",
+            "owner": "shannon112",
+            "repo": "imu_calibration",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "4_Calibration"
+    },
+    {
+      "description": "☠︎ Visual Based Ego-Motion Backbone\n📚 Odometry Survey Paper\n🏆 Odometry Algorithm Ranking\n🚖 Wheel Odometry\n💡 2D Laser Based Odometry\n📷 3D Visual Based Odometry (Mono)\n📸 3D RGB-D/Stereo Based Odometry\n🔅 3D LiDAR Based Odometry\n🤖 Learning Based Odometry\n🍥 Odometry Fusion",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"VINS-Mono\": https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91875325,
+            "language": "C++",
+            "last_commit": "2024-08-14T17:28:14Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "VINS-Mono",
+            "stars": 6002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DSO\": https://github.com/JakobEngel/dso",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73256421,
+            "language": "C++",
+            "last_commit": "2024-02-23T16:15:26Z",
+            "owner": "JakobEngel",
+            "repo": "dso",
+            "stars": 2451
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"SVO\": https://github.com/uzh-rpg/rpg_svo",
+          "description": "http://rpg.ifi.uzh.ch/svo2.html",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17672262,
+            "language": "C++",
+            "last_commit": "2019-08-22T21:27:36Z",
+            "owner": "uzh-rpg",
+            "repo": "rpg_svo",
+            "stars": 2227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"OKVIS\": https://github.com/ethz-asl/okvis",
+          "description": "https://github.com/ethz-asl/okvis_ros",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51096220,
+            "language": "C++",
+            "last_commit": "2021-08-24T10:19:14Z",
+            "owner": "ethz-asl",
+            "repo": "okvis",
+            "stars": 1364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ROVIO\": https://github.com/ethz-asl/rovio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40291700,
+            "language": "C++",
+            "last_commit": "2026-01-19T08:57:56Z",
+            "owner": "ethz-asl",
+            "repo": "rovio",
+            "stars": 1262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"VINS-Fusion\": https://github.com/HKUST-Aerial-Robotics/VINS-Fusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165091078,
+            "language": "C++",
+            "last_commit": "2024-05-23T09:17:03Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "VINS-Fusion",
+            "stars": 4674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"SOFT\": https://github.com/Mayankm96/Stereo-Odometry-SOFT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85862686,
+            "language": "Matlab",
+            "last_commit": "2018-11-23T17:37:38Z",
+            "owner": "Mayankm96",
+            "repo": "Stereo-Odometry-SOFT",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DVO\": https://github.com/tum-vision/dvo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7090966,
+            "language": "C++",
+            "last_commit": "2013-07-11T14:04:47Z",
+            "owner": "tum-vision",
+            "repo": "dvo",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"LOAM & V-LOAM\": https://github.com/laboshinl/loam_velodyne",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51070210,
+            "language": "C++",
+            "last_commit": "2019-06-18T17:00:43Z",
+            "owner": "laboshinl",
+            "repo": "loam_velodyne",
+            "stars": 1758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"LIMO\": https://github.com/johannes-graeter/limo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125035290,
+            "language": "C++",
+            "last_commit": "2025-12-28T22:01:32Z",
+            "owner": "johannes-graeter",
+            "repo": "limo",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DeepVO\": https://github.com/ChiWeiHsiao/DeepVO-pytorch",
+          "description": "https://github.com/ildoonet/deepvo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129643607,
+            "language": "Python",
+            "last_commit": "2021-11-15T08:18:54Z",
+            "owner": "ChiWeiHsiao",
+            "repo": "DeepVO-pytorch",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"VINET\": https://github.com/HTLife/VINet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123801056,
+            "language": "Python",
+            "last_commit": "2018-06-28T15:30:47Z",
+            "owner": "HTLife",
+            "repo": "VINet",
+            "stars": 224
+          }
+        }
+      ],
+      "title": "5_Odometry"
+    },
+    {
+      "description": "🏛 SLAM Theorem & Tutorial\n📚 SLAM Survey Paper\n☠︎ SLAM Backbone (Back-End)\n📐 SLAM Benchmark (Dataset)\n💡 2D Laser Based SLAM\n📷 3D Visual Based SLAM (Mono)\n📸 3D RGB-D/Stereo Based SLAM\n🔅 3D LiDAR Based SLAM\n🐭 Cognitive Related SLAM\n🏷 Semantic Related SLAM",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"ORB-SLAM\": https://github.com/raulmur/ORB_SLAM2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50255244,
+            "language": "C++",
+            "last_commit": "2024-05-15T07:48:28Z",
+            "owner": "raulmur",
+            "repo": "ORB_SLAM2",
+            "stars": 10213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"MonoSLAM\": https://github.com/hanmekim/SceneLib2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6156258,
+            "language": "C++",
+            "last_commit": "2015-12-28T09:43:39Z",
+            "owner": "hanmekim",
+            "repo": "SceneLib2",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ORB-SLAM2\": https://github.com/raulmur/ORB_SLAM2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50255244,
+            "language": "C++",
+            "last_commit": "2024-05-15T07:48:28Z",
+            "owner": "raulmur",
+            "repo": "ORB_SLAM2",
+            "stars": 10213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ORB-SLAM3\": https://github.com/UZ-SLAMLab/ORB_SLAM3",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280608729,
+            "language": "C++",
+            "last_commit": "2024-07-24T08:41:52Z",
+            "owner": "UZ-SLAMLab",
+            "repo": "ORB_SLAM3",
+            "stars": 8965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ElasticFusion\": https://github.com/mp3guy/ElasticFusion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44748564,
+            "language": "C++",
+            "last_commit": "2025-08-03T10:04:09Z",
+            "owner": "mp3guy",
+            "repo": "ElasticFusion",
+            "stars": 1926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"RTAB-Map\": http://introlab.github.io/rtabmap/",
+          "description": "https://github.com/introlab/rtabmap_ros",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22852474,
+            "language": "C++",
+            "last_commit": "2026-08-17T21:32:11Z",
+            "owner": "introlab",
+            "repo": "rtabmap_ros",
+            "stars": 1494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DVO-SLAM\": https://github.com/tum-vision/dvo_slam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12110125,
+            "language": "C++",
+            "last_commit": "2016-09-21T19:57:35Z",
+            "owner": "tum-vision",
+            "repo": "dvo_slam",
+            "stars": 668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DTAM\": https://github.com/anuranbaka/OpenDTAM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18779765,
+            "language": "C++",
+            "last_commit": "2024-11-01T19:25:29Z",
+            "owner": "anuranbaka",
+            "repo": "OpenDTAM",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"LIO-SAM\": https://github.com/TixiaoShan/LIO-SAM",
+          "description": "(handheld device)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276269866,
+            "language": "C++",
+            "last_commit": "2025-02-14T10:05:51Z",
+            "owner": "TixiaoShan",
+            "repo": "LIO-SAM",
+            "stars": 4889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Lego-LOAM\": https://github.com/RobustFieldAutonomyLab/LeGO-LOAM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139863328,
+            "language": "C++",
+            "last_commit": "2024-08-17T07:20:25Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "LeGO-LOAM",
+            "stars": 2753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"hdl_graph_slam\": https://github.com/koide3/hdl_graph_slam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115905660,
+            "language": "C++",
+            "last_commit": "2024-07-16T01:39:14Z",
+            "owner": "koide3",
+            "repo": "hdl_graph_slam",
+            "stars": 2324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"BLAM\": https://github.com/erik-nelson/blam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51559354,
+            "language": "Shell",
+            "last_commit": "2016-08-02T00:10:33Z",
+            "owner": "erik-nelson",
+            "repo": "blam",
+            "stars": 795
+          }
+        }
+      ],
+      "title": "6_SLAM"
+    },
+    {
+      "description": "📍 Basic Mapping Backbones\n🗺 Basic Mapping Methods\n📍 Advanced 3D Mapping Backbones\n🗺 Advanced 3D Mapping Methods",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"voxblox (ESDF&TSDF based)\": https://github.com/ethz-asl/voxblox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56137228,
+            "language": "C++",
+            "last_commit": "2024-07-01T05:21:48Z",
+            "owner": "ethz-asl",
+            "repo": "voxblox",
+            "stars": 1663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DenseSurfelMapping (Surfel based)\": https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 149085058,
+            "language": "C++",
+            "last_commit": "2020-03-12T04:03:11Z",
+            "owner": "HKUST-Aerial-Robotics",
+            "repo": "DenseSurfelMapping",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"OpenChisel (TSDF based)\": https://github.com/personalrobotics/OpenChisel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27139533,
+            "language": "C++",
+            "last_commit": "2024-04-15T00:01:10Z",
+            "owner": "personalrobotics",
+            "repo": "OpenChisel",
+            "stars": 504
+          }
+        }
+      ],
+      "title": "8_Mapping"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:00:51.332Z",
+    "last_updated": "2026-08-19T12:52:03.669Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
+    "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
     "enhanced_repository": "enhansome/enhansome-ros-mobile-robot",
     "enhanced_repository_description": null,
