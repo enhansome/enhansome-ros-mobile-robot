@@ -15,7 +15,7 @@
             "last_commit": "2026-06-15T11:50:39Z",
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2042
+            "stars": 2043
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-08-14T17:28:14Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6002
+            "stars": 6003
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8965
+            "stars": 8966
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:52:03.669Z",
+    "last_updated": "2026-08-19T16:58:55.716Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",

@@ -170,7 +170,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🤖 ROS Mobile Robot Github
 
-* "turtlebot3": <https://github.com/ROBOTIS-GIT/turtlebot3> ⭐ 2,042 | 🐛 17 | 🌐 C++ | 📅 2026-06-15
+* "turtlebot3": <https://github.com/ROBOTIS-GIT/turtlebot3> ⭐ 2,043 | 🐛 17 | 🌐 C++ | 📅 2026-06-15
 * "Robotnik XL-GEN": <https://github.com/RobotnikAutomation/summit_xl_sim> ⭐ 78 | 🐛 17 | 🌐 Dockerfile | 📅 2025-04-07 or summit\_xl\_common
 * "Robotnik RB-KAIROS": <https://github.com/RobotnikAutomation/rbkairos_sim> ⭐ 32 | 🐛 4 | 🌐 CMake | 📅 2024-05-03 or rbkairos\_common
 * "turtlebot": <https://github.com/turtlebot>
@@ -216,7 +216,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 RGB-D Camera
 
-* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,417 | 🐛 122 | 🌐 Python | 📅 2026-08-06
+* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,417 | 🐛 123 | 🌐 Python | 📅 2026-08-06
 * "Microsoft kinect one/v2": <https://github.com/code-iai/iai_kinect2> ⭐ 896 | 🐛 152 | 🌐 C++ | 📅 2023-04-13
 * "Asus xtion with openni2": <https://github.com/ros-drivers/openni2_camera> ⭐ 68 | 🐛 12 | 🌐 C++ | 📅 2025-05-22
 * "Microsoft kinectv1 with openni": <https://github.com/ros-drivers/openni_camera> ⭐ 51 | 🐛 25 | 🌐 C++ | 📅 2024-08-14
@@ -369,7 +369,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📷 3D Visual Based Odometry (Mono)
 
-* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,002 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,003 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
   > Qin, Tong, Peiliang Li, and Shaojie Shen. "Vins-mono: A robust and versatile monocular visual-inertial state estimator." IEEE Transactions on Robotics 34.4 (2018): 1004-1020.
 * "DSO": <https://github.com/JakobEngel/dso> ⭐ 2,451 | 🐛 138 | 🌐 C++ | 📅 2024-02-23 `Sparse Direct Method`
   > Engel, Jakob, Vladlen Koltun, and Daniel Cremers. "Direct sparse odometry." IEEE transactions on pattern analysis and machine intelligence 40.3 (2017): 611-625.
@@ -507,7 +507,7 @@ This repository provides some useful resources and informations about **autonomo
 
 * "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,213 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
   > Raúl Mur-Artal and Juan D. Tardós. ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, 2017.
-* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,965 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,966 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
   > \[ORB-SLAM3] Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel and Juan D. Tardós, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Under review.\
   > \[IMU-Initialization] Carlos Campos, J. M. M. Montiel and Juan D. Tardós, Inertial-Only Optimization for Visual-Inertial Initialization, ICRA 2020.\
   > \[ORBSLAM-Atlas] Richard Elvira, J. M. M. Montiel and Juan D. Tardós, ORBSLAM-Atlas: a robust and accurate multi-map system, IROS 2019.\
