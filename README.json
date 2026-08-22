@@ -15,7 +15,7 @@
             "last_commit": "2026-06-15T11:50:39Z",
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2045
+            "stars": 2046
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34374
+            "stars": 34375
           }
         }
       ],
@@ -429,7 +429,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10217
+            "stars": 10219
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10217
+            "stars": 10219
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8974
+            "stars": 8975
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4891
+            "stars": 4892
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:03:51.380Z",
+    "last_updated": "2026-08-22T16:55:04.577Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
