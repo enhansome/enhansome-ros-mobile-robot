@@ -60,7 +60,7 @@
             "last_commit": "2026-07-20T12:26:36Z",
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1411
+            "stars": 1412
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-06T09:12:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3418
+            "stars": 3419
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34375
+            "stars": 34385
           }
         }
       ],
@@ -243,7 +243,7 @@
             "last_commit": "2024-08-14T17:28:14Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6006
+            "stars": 6007
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2024-02-23T16:15:26Z",
             "owner": "JakobEngel",
             "repo": "dso",
-            "stars": 2452
+            "stars": 2453
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4678
+            "stars": 4680
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8975
+            "stars": 8977
           }
         },
         {
@@ -519,7 +519,7 @@
             "last_commit": "2016-09-21T19:57:35Z",
             "owner": "tum-vision",
             "repo": "dvo_slam",
-            "stars": 668
+            "stars": 667
           }
         },
         {
@@ -579,7 +579,7 @@
             "last_commit": "2024-07-16T01:39:14Z",
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2327
+            "stars": 2328
           }
         },
         {
@@ -615,7 +615,7 @@
             "last_commit": "2024-07-01T05:21:48Z",
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1664
+            "stars": 1665
           }
         },
         {
@@ -653,7 +653,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:55:04.577Z",
+    "last_updated": "2026-08-23T16:56:20.283Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
