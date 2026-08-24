@@ -1,8 +1,59 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROS2: https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148210342,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:02:42Z",
+            "owner": "ros2",
+            "repo": "ros2_documentation",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gazebo: https://github.com/gazebosim/docs/blob/master/releases.md",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255865180,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:43:07Z",
+            "owner": "gazebosim",
+            "repo": "docs",
+            "stars": 88
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "🤖 ROS Robot Overview\n🚘 Wheel Robot Configurations\n(ref: Siegwart, Roland, Illah Reza Nourbakhsh, and Davide Scaramuzza. Introduction to autonomous mobile robots. MIT press, 2011, Table 2.1, p.34~36)\n🚗 Race Car Projects\n🤖 ROS Mobile Robot Github\n🤖 ROS Mobile Manipulator Github\n🤖 ROS Manipulator Github\n💻 Processing Unit (SBC/IPC)\n🕹 Motor & Controller & Encoder",
       "items": [
+        {
+          "node_type": "item",
+          "title": "\"Taiwan Hypharos\": https://github.com/Hypha-ROS/hypharos_racecar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92755183,
+            "language": "C++",
+            "last_commit": "2018-05-09T02:13:50Z",
+            "owner": "Hypha-ROS",
+            "repo": "hypharos_racecar",
+            "stars": 264
+          }
+        },
         {
           "node_type": "item",
           "title": "\"turtlebot3\": https://github.com/ROBOTIS-GIT/turtlebot3",
@@ -15,7 +66,7 @@
             "last_commit": "2026-06-15T11:50:39Z",
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2046
+            "stars": 2048
           }
         },
         {
@@ -46,6 +97,21 @@
             "owner": "RobotnikAutomation",
             "repo": "rbkairos_sim",
             "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Robotnik RB-1\": https://github.com/RobotnikAutomation/rb1_sim",
+          "description": "or rb1_common",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27878688,
+            "language": "C++",
+            "last_commit": "2019-08-26T12:16:27Z",
+            "owner": "RobotnikAutomation",
+            "repo": "rb1_sim",
+            "stars": 2
           }
         },
         {
@@ -111,7 +177,7 @@
             "last_commit": "2026-08-06T09:12:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3419
+            "stars": 3420
           }
         },
         {
@@ -176,6 +242,51 @@
         },
         {
           "node_type": "item",
+          "title": "\"e-Con Systems Tara Stereo Camera\": https://github.com/dilipkumar25/see3cam",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69694090,
+            "language": "C++",
+            "last_commit": "2017-10-10T11:53:04Z",
+            "owner": "dilipkumar25",
+            "repo": "see3cam",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Livox\": https://github.com/hku-mars/loam_livox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190799980,
+            "language": "C++",
+            "last_commit": "2020-02-24T20:51:56Z",
+            "owner": "hku-mars",
+            "repo": "loam_livox",
+            "stars": 1619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"YOLOv3\": https://github.com/leggedrobotics/darknet_ros",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86843940,
+            "language": "C++",
+            "last_commit": "2024-07-19T10:36:14Z",
+            "owner": "leggedrobotics",
+            "repo": "darknet_ros",
+            "stars": 2439
+          }
+        },
+        {
+          "node_type": "item",
           "title": "\"OpenPose\": https://github.com/CMU-Perceptual-Computing-Lab/openpose",
           "description": null,
           "children": [],
@@ -186,7 +297,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34385
+            "stars": 34390
           }
         }
       ],
@@ -195,6 +306,21 @@
     {
       "description": "📷 Camera Calibration (Intrinsic and Extrinsic parameters)\n👁 Hand-Eye Calibration\n🍎 IMU (Sparkfun Razer 9dof-razor-imu-m0) Calibration",
       "items": [
+        {
+          "node_type": "item",
+          "title": "\"easy_handeye\": https://github.com/IFL-CAMP/easy_handeye",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95383816,
+            "language": "Python",
+            "last_commit": "2025-11-30T17:04:51Z",
+            "owner": "IFL-CAMP",
+            "repo": "easy_handeye",
+            "stars": 1171
+          }
+        },
         {
           "node_type": "item",
           "title": "\"Github Wiki\": https://github.com/Razor-AHRS/razor-9dof-ahrs/wiki/Tutorial",
@@ -233,6 +359,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "\"rf2o\": https://github.com/MAPIRlab/rf2o_laser_odometry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82200214,
+            "language": "C++",
+            "last_commit": "2024-01-31T08:02:18Z",
+            "owner": "MAPIRlab",
+            "repo": "rf2o_laser_odometry",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
           "title": "\"VINS-Mono\": https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
           "description": null,
           "children": [],
@@ -243,7 +384,7 @@
             "last_commit": "2024-08-14T17:28:14Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6007
+            "stars": 6008
           }
         },
         {
@@ -258,7 +399,7 @@
             "last_commit": "2024-02-23T16:15:26Z",
             "owner": "JakobEngel",
             "repo": "dso",
-            "stars": 2453
+            "stars": 2454
           }
         },
         {
@@ -273,7 +414,7 @@
             "last_commit": "2019-08-22T21:27:36Z",
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
-            "stars": 2227
+            "stars": 2228
           }
         },
         {
@@ -288,7 +429,7 @@
             "last_commit": "2021-08-24T10:19:14Z",
             "owner": "ethz-asl",
             "repo": "okvis",
-            "stars": 1364
+            "stars": 1365
           }
         },
         {
@@ -318,7 +459,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4680
+            "stars": 4682
           }
         },
         {
@@ -348,7 +489,7 @@
             "last_commit": "2013-07-11T14:04:47Z",
             "owner": "tum-vision",
             "repo": "dvo",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -418,6 +559,28 @@
       "description": "🏛 SLAM Theorem & Tutorial\n📚 SLAM Survey Paper\n☠︎ SLAM Backbone (Back-End)\n📐 SLAM Benchmark (Dataset)\n💡 2D Laser Based SLAM\n📷 3D Visual Based SLAM (Mono)\n📸 3D RGB-D/Stereo Based SLAM\n🔅 3D LiDAR Based SLAM\n🐭 Cognitive Related SLAM\n🏷 Semantic Related SLAM",
       "items": [
         {
+          "node_type": "group",
+          "title": "Graph Optimization Based",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "g2o Library",
+              "description": "Kümmerle, Rainer, et al. \"g 2 o: A general framework for graph optimization.\" 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3161336,
+                "language": "C++",
+                "last_commit": "2026-08-23T19:39:56Z",
+                "owner": "RainerKuemmerle",
+                "repo": "g2o",
+                "stars": 3460
+              }
+            }
+          ]
+        },
+        {
           "node_type": "item",
           "title": "\"ORB-SLAM\": https://github.com/raulmur/ORB_SLAM2",
           "description": null,
@@ -429,7 +592,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10219
+            "stars": 10221
           }
         },
         {
@@ -444,7 +607,7 @@
             "last_commit": "2015-12-28T09:43:39Z",
             "owner": "hanmekim",
             "repo": "SceneLib2",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -459,7 +622,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10219
+            "stars": 10221
           }
         },
         {
@@ -474,7 +637,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8977
+            "stars": 8979
           }
         },
         {
@@ -519,7 +682,7 @@
             "last_commit": "2016-09-21T19:57:35Z",
             "owner": "tum-vision",
             "repo": "dvo_slam",
-            "stars": 667
+            "stars": 668
           }
         },
         {
@@ -596,6 +759,36 @@
             "repo": "blam",
             "stars": 795
           }
+        },
+        {
+          "node_type": "item",
+          "title": "\"ViTa-SLAM\": https://github.com/aalto-intelligent-robotics/ViTa-SLAM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235538766,
+            "language": "C++",
+            "last_commit": "2020-04-09T12:06:31Z",
+            "owner": "aalto-intelligent-robotics",
+            "repo": "ViTa-SLAM",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Kimera\": https://github.com/MIT-SPARK/Kimera",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208689257,
+            "language": null,
+            "last_commit": "2021-01-30T22:12:14Z",
+            "owner": "MIT-SPARK",
+            "repo": "Kimera",
+            "stars": 2118
+          }
         }
       ],
       "title": "6_SLAM"
@@ -615,7 +808,7 @@
             "last_commit": "2024-07-01T05:21:48Z",
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1665
+            "stars": 1666
           }
         },
         {
@@ -653,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:56:20.283Z",
+    "last_updated": "2026-08-24T14:23:49.473Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
