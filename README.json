@@ -12,7 +12,7 @@
             "archived": false,
             "id": 148210342,
             "language": "Python",
-            "last_commit": "2026-08-24T14:02:42Z",
+            "last_commit": "2026-08-24T14:33:04Z",
             "owner": "ros2",
             "repo": "ros2_documentation",
             "stars": 985
@@ -297,7 +297,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34390
+            "stars": 34392
           }
         }
       ],
@@ -637,7 +637,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8979
+            "stars": 8980
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:49.473Z",
+    "last_updated": "2026-08-24T17:08:42.525Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
