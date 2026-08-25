@@ -177,7 +177,7 @@
             "last_commit": "2026-08-06T09:12:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3420
+            "stars": 3421
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34392
+            "stars": 34395
           }
         }
       ],
@@ -459,7 +459,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4682
+            "stars": 4683
           }
         },
         {
@@ -572,7 +572,7 @@
                 "archived": false,
                 "id": 3161336,
                 "language": "C++",
-                "last_commit": "2026-08-23T19:39:56Z",
+                "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3460
@@ -637,7 +637,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8980
+            "stars": 8981
           }
         },
         {
@@ -667,7 +667,7 @@
             "last_commit": "2026-08-17T21:32:11Z",
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1496
+            "stars": 1497
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4892
+            "stars": 4893
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2024-07-16T01:39:14Z",
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2328
+            "stars": 2329
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2024-07-01T05:21:48Z",
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1666
+            "stars": 1667
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:08:42.525Z",
+    "last_updated": "2026-08-25T06:15:50.470Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",

@@ -216,7 +216,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 RGB-D Camera
 
-* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,420 | 🐛 124 | 🌐 Python | 📅 2026-08-06
+* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,421 | 🐛 124 | 🌐 Python | 📅 2026-08-06
 * "Microsoft kinect one/v2": <https://github.com/code-iai/iai_kinect2> ⭐ 897 | 🐛 152 | 🌐 C++ | 📅 2023-04-13
 * "Asus xtion with openni2": <https://github.com/ros-drivers/openni2_camera> ⭐ 68 | 🐛 12 | 🌐 C++ | 📅 2025-05-22
 * "Microsoft kinectv1 with openni": <https://github.com/ros-drivers/openni_camera> ⭐ 51 | 🐛 25 | 🌐 C++ | 📅 2024-08-14
@@ -307,7 +307,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 Learning-Based Human Pose Estimation
 
-* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,392 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,395 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * "OpenPose-plugin": <https://github.com/ildoonet/tf-pose-estimation>
 
 # 4\_Calibration
@@ -391,7 +391,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 3D RGB-D/Stereo Based Odometry
 
-* "VINS-Fusion": <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion> ⭐ 4,682 | 🐛 212 | 🌐 C++ | 📅 2024-05-23
+* "VINS-Fusion": <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion> ⭐ 4,683 | 🐛 212 | 🌐 C++ | 📅 2024-05-23
   > Qin, Tong, and Shaojie Shen. "Online temporal calibration for monocular visual-inertial systems." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.
 * "SOFT": <https://github.com/Mayankm96/Stereo-Odometry-SOFT> ⭐ 210 | 🐛 1 | 🌐 Matlab | 📅 2018-11-23
   > Cvišic, Igor, et al. "Soft-slam: Computationally efficient stereo visual slam for autonomous uavs." Journal of field robotics (2017).\
@@ -448,7 +448,7 @@ This repository provides some useful resources and informations about **autonomo
 * Particle Filter Based
   * `Gmapping, FastSLAM, FastSLAM2.0`
 * Graph Optimization Based
-  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,460 | 🐛 7 | 🌐 C++ | 📅 2026-08-23: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
+  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,460 | 🐛 7 | 🌐 C++ | 📅 2026-08-24: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
   * Method: `Bundle Adjustment(BA), Pose Graph, Factor Graph`
   * Regression Solution: `Gaussian Netwon (GN), Leverberg Marquert(LM)`
   * Efficiently Solving: `Cholesky Factorization, QR Decomposition, Conjugate Gradients`
@@ -507,14 +507,14 @@ This repository provides some useful resources and informations about **autonomo
 
 * "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,221 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
   > Raúl Mur-Artal and Juan D. Tardós. ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, 2017.
-* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,980 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
+* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,981 | 🐛 572 | 🌐 C++ | 📅 2024-07-24
   > \[ORB-SLAM3] Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel and Juan D. Tardós, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Under review.\
   > \[IMU-Initialization] Carlos Campos, J. M. M. Montiel and Juan D. Tardós, Inertial-Only Optimization for Visual-Inertial Initialization, ICRA 2020.\
   > \[ORBSLAM-Atlas] Richard Elvira, J. M. M. Montiel and Juan D. Tardós, ORBSLAM-Atlas: a robust and accurate multi-map system, IROS 2019.\
   > \[ORBSLAM-VI] Raúl Mur-Artal, and Juan D. Tardós, Visual-inertial monocular SLAM with map reuse, IEEE Robotics and Automation Letters, vol. 2 no. 2, pp. 796-803, 2017.
 * "ElasticFusion": <https://github.com/mp3guy/ElasticFusion> ⭐ 1,927 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
   > Whelan, Thomas, et al. "ElasticFusion: Dense SLAM without a pose graph." Robotics: Science and Systems, 2015.
-* "RTAB-Map": <http://introlab.github.io/rtabmap/> | <https://github.com/introlab/rtabmap_ros> ⭐ 1,496 | 🐛 558 | 🌐 C++ | 📅 2026-08-17
+* "RTAB-Map": <http://introlab.github.io/rtabmap/> | <https://github.com/introlab/rtabmap_ros> ⭐ 1,497 | 🐛 558 | 🌐 C++ | 📅 2026-08-17
   > M. Labbé and F. Michaud, “RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation,” in Journal of Field Robotics, vol. 36, no. 2, pp. 416–446, 2019. (Wiley) Universit ́e de Sherbrooke\
   > M. Labbé and F. Michaud, “Long-term online multi-session graph-based SPLAM with memory management,” in Autonomous Robots, vol. 42, no. 6, pp. 1133-1150, 2018.\
   > M. Labbé and F. Michaud, “Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM,” in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2014.\
@@ -538,11 +538,11 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 3D LiDAR Based SLAM
 
-* "LIO-SAM": <https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,892 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 (handheld device)
+* "LIO-SAM": <https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,893 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 (handheld device)
   > Shan, Tixiao and Englot, Brendan and Meyers, Drew and Wang, Wei and Ratti, Carlo and Rus Daniela, "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, 2020
 * "Lego-LOAM": <https://github.com/RobustFieldAutonomyLab/LeGO-LOAM> ⭐ 2,753 | 🐛 40 | 🌐 C++ | 📅 2024-08-17
   > T. Shan and B. Englot, "LeGO-LOAM: Lightweight and Ground- Optimized Lidar Odometry and Mapping on Variable Terrain," 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Madrid, 2018, pp. 4758- 4765.
-* "hdl\_graph\_slam": <https://github.com/koide3/hdl_graph_slam> ⭐ 2,328 | 🐛 126 | 🌐 C++ | 📅 2024-07-16
+* "hdl\_graph\_slam": <https://github.com/koide3/hdl_graph_slam> ⭐ 2,329 | 🐛 126 | 🌐 C++ | 📅 2024-07-16
   > Kenji Koide, Jun Miura, and Emanuele Menegatti, A Portable 3D LIDAR-based System for Long-term and Wide-area People Behavior Measurement, Advanced Robotic Systems, 2019
 * "BLAM": <https://github.com/erik-nelson/blam> ⭐ 795 | 🐛 43 | 🌐 Shell | 📅 2016-08-02
   > E. Nelson, BLAM: berkeley localization and mapping, \[online]. Available: https\://<span></span>[github.com/erik-nelson/blam](https://github.com/erik-nelson/blam) ⭐ 795 | 🐛 43 | 🌐 Shell | 📅 2016-08-02.
@@ -607,7 +607,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🗺 Advanced 3D Mapping Methods
 
-* "voxblox (ESDF\&TSDF based)": <https://github.com/ethz-asl/voxblox> ⭐ 1,666 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* "voxblox (ESDF\&TSDF based)": <https://github.com/ethz-asl/voxblox> ⭐ 1,667 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
   > Helen Oleynikova, et al. “Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning”, in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
 * "DenseSurfelMapping (Surfel based)": <https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping> ⚠️ Archived
   > Wang, Kaixuan, Fei Gao, and Shaojie Shen. "Real-time scalable dense surfel mapping." 2019 International Conference on Robotics and Automation (ICRA). IEEE, 2019.
@@ -788,4 +788,4 @@ This repository provides some useful resources and informations about **autonomo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
