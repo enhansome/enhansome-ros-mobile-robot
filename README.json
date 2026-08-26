@@ -12,7 +12,7 @@
             "archived": false,
             "id": 148210342,
             "language": "Python",
-            "last_commit": "2026-08-25T08:27:36Z",
+            "last_commit": "2026-08-26T14:28:45Z",
             "owner": "ros2",
             "repo": "ros2_documentation",
             "stars": 986
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 255865180,
             "language": "Python",
-            "last_commit": "2026-08-25T06:34:50Z",
+            "last_commit": "2026-08-26T06:47:09Z",
             "owner": "gazebosim",
             "repo": "docs",
             "stars": 88
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-06T09:12:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3421
+            "stars": 3423
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34400
+            "stars": 34410
           }
         }
       ],
@@ -318,7 +318,7 @@
             "last_commit": "2025-11-30T17:04:51Z",
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -369,7 +369,7 @@
             "last_commit": "2024-01-31T08:02:18Z",
             "owner": "MAPIRlab",
             "repo": "rf2o_laser_odometry",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -384,7 +384,7 @@
             "last_commit": "2024-08-14T17:28:14Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6010
+            "stars": 6011
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2019-08-22T21:27:36Z",
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
-            "stars": 2228
+            "stars": 2229
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4683
+            "stars": 4684
           }
         },
         {
@@ -575,7 +575,7 @@
                 "last_commit": "2026-08-24T19:33:04Z",
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3460
+                "stars": 3461
               }
             }
           ]
@@ -592,7 +592,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10222
+            "stars": 10223
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10222
+            "stars": 10223
           }
         },
         {
@@ -637,7 +637,7 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8984
+            "stars": 8986
           }
         },
         {
@@ -682,7 +682,7 @@
             "last_commit": "2016-09-21T19:57:35Z",
             "owner": "tum-vision",
             "repo": "dvo_slam",
-            "stars": 668
+            "stars": 669
           }
         },
         {
@@ -712,7 +712,7 @@
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4894
+            "stars": 4895
           }
         },
         {
@@ -742,7 +742,7 @@
             "last_commit": "2024-07-16T01:39:14Z",
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2329
+            "stars": 2332
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:08:30.689Z",
+    "last_updated": "2026-08-26T18:20:42.624Z",
     "original_repository": "shannon112/awesome-ros-mobile-robot",
     "original_repository_id": 169895457,
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
