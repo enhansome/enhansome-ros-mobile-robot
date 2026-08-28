@@ -12,10 +12,10 @@
             "archived": false,
             "id": 148210342,
             "language": "Python",
-            "last_commit": "2026-08-27T08:39:44Z",
+            "last_commit": "2026-08-27T23:56:10Z",
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 987
+            "stars": 988
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 255865180,
             "language": "Python",
-            "last_commit": "2026-08-26T06:47:09Z",
+            "last_commit": "2026-08-27T17:15:59Z",
             "owner": "gazebosim",
             "repo": "docs",
             "stars": 88
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-06T09:12:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3424
+            "stars": 3425
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-07-19T10:36:14Z",
             "owner": "leggedrobotics",
             "repo": "darknet_ros",
-            "stars": 2439
+            "stars": 2438
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34418
           }
         }
       ],
@@ -369,7 +369,7 @@
             "last_commit": "2024-01-31T08:02:18Z",
             "owner": "MAPIRlab",
             "repo": "rf2o_laser_odometry",
-            "stars": 490
+            "stars": 489
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2019-08-22T21:27:36Z",
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
-            "stars": 2229
+            "stars": 2230
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:39.156Z",
+    "last_updated": "2026-08-28T01:05:44.735Z",
     "original_repository_info": {
       "archived": false,
       "id": 169895457,
