@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS 2 docs repository",
+            "homepage": "https://docs.ros.org/en/rolling",
             "id": 148210342,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T22:05:40Z",
+            "open_issues": 181,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 990
+            "stars": 990,
+            "topics": [
+              "hacktoberfest",
+              "ros"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -26,12 +34,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-level Gazebo documentation that gets published to https://gazebosim.org/docs/",
+            "homepage": "https://gazebosim.org/docs",
             "id": 255865180,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T18:03:08Z",
+            "open_issues": 53,
             "owner": "gazebosim",
             "repo": "docs",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "documentation",
+              "gazebo",
+              "gazebosim",
+              "hacktoberfest",
+              "ignition",
+              "ignition-documentation",
+              "ignition-robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -48,12 +69,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-cost, high speed (600USD, 3 m/s) 1/10 Autonomous ROS RaceCar (with tutorial for beginner) ",
+            "homepage": "https://hypharosworkshop.wordpress.com/",
             "id": 92755183,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2018-05-09T02:13:50Z",
+            "open_issues": 2,
             "owner": "Hypha-ROS",
             "repo": "hypharos_racecar",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "cpp",
+              "hypha-racecar",
+              "hypharos",
+              "outdoors",
+              "racecar",
+              "ros"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -64,12 +97,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS packages for Turtlebot3",
+            "homepage": "http://turtlebot3.robotis.com",
             "id": 61611248,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T11:50:39Z",
+            "open_issues": 16,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2049
+            "stars": 2049,
+            "topics": [
+              "dynamixel",
+              "gazebo",
+              "mobile",
+              "navigation",
+              "package",
+              "robot",
+              "robotis",
+              "ros",
+              "slam",
+              "turtlebot",
+              "turtlebot3"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -80,12 +130,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packages for the simulation of the Summit XL, Summit XL HL and Summit-X (including X-WAM) robots",
+            "homepage": null,
             "id": 23066201,
             "language": "Dockerfile",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-04-07T07:48:25Z",
+            "open_issues": 17,
             "owner": "RobotnikAutomation",
             "repo": "summit_xl_sim",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "docker",
+              "gazebo",
+              "gazebo-ros",
+              "gazebo-simulator",
+              "kinetic",
+              "melodic",
+              "robots",
+              "ros",
+              "ros-kinetic",
+              "ros-melodic",
+              "summit-xl"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -96,12 +163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RB-Kairos ROS simulation packages",
+            "homepage": null,
             "id": 106810690,
             "language": "CMake",
+            "license": null,
             "last_commit": "2024-05-03T12:10:25Z",
+            "open_issues": 4,
             "owner": "RobotnikAutomation",
             "repo": "rbkairos_sim",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -112,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robotnik RB-1 - Modular Mobile Manipulator Simulation",
+            "homepage": null,
             "id": 27878688,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-08-26T12:16:27Z",
+            "open_issues": 0,
             "owner": "RobotnikAutomation",
             "repo": "rb1_sim",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -128,12 +205,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS-Industrial Universal Robots support (https://wiki.ros.org/universal_robot)",
+            "homepage": null,
             "id": 8745199,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-07-20T12:26:36Z",
+            "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1414
+            "stars": 1414,
+            "topics": [
+              "moveit",
+              "ros-industrial",
+              "universal-robots",
+              "ur",
+              "urdf"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -144,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS integration for Franka research robots",
+            "homepage": "https://frankarobotics.github.io",
             "id": 103703868,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-24T12:13:31Z",
+            "open_issues": 118,
             "owner": "frankarobotics",
             "repo": "franka_ros",
-            "stars": 488
+            "stars": 488,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -160,12 +253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "techman robot driver for ROS",
+            "homepage": null,
             "id": 67381423,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2021-03-16T09:51:08Z",
+            "open_issues": 3,
             "owner": "kentsai0319",
             "repo": "techman_robot",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -182,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS Wrapper for RealSense™ Cameras",
+            "homepage": "http://wiki.ros.org/RealSense",
             "id": 52400453,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:33:59Z",
+            "open_issues": 124,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3426
+            "stars": 3426,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -198,12 +301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for using the Kinect One (Kinect v2) in ROS",
+            "homepage": null,
             "id": 23793845,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-13T21:51:57Z",
+            "open_issues": 152,
             "owner": "code-iai",
             "repo": "iai_kinect2",
-            "stars": 896
+            "stars": 896,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -214,12 +322,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS wrapper for openni 2.0",
+            "homepage": "http://wiki.ros.org/openni2_camera",
             "id": 9636556,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-05-22T17:37:49Z",
+            "open_issues": 12,
             "owner": "ros-drivers",
             "repo": "openni2_camera",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "drivers",
+              "rgbd",
+              "ros",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -230,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ROS driver for OpenNI depth (+ RGB) cameras. ",
+            "homepage": null,
             "id": 7418625,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-08-14T10:31:48Z",
+            "open_issues": 25,
             "owner": "ros-drivers",
             "repo": "openni_camera",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -246,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libfreenect based ROS driver",
+            "homepage": "http://ros.org/wiki/freenect_stack",
             "id": 8613886,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-03-19T14:20:43Z",
+            "open_issues": 19,
             "owner": "ros-drivers",
             "repo": "freenect_stack",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -262,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS driver for the e-consystems See3CAM_Stereo (Tara) camera",
+            "homepage": "https://www.e-consystems.com/3D-USB-stereo-camera.asp",
             "id": 69694090,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-10-10T11:53:04Z",
+            "open_issues": 7,
             "owner": "dilipkumar25",
             "repo": "see3cam",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -278,12 +411,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A robust LiDAR Odometry and Mapping (LOAM) package for Livox-LiDAR",
+            "homepage": null,
             "id": 190799980,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2020-02-24T20:51:56Z",
+            "open_issues": 71,
             "owner": "hku-mars",
             "repo": "loam_livox",
-            "stars": 1619
+            "stars": 1619,
+            "topics": [
+              "livox-lidar",
+              "loam"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -294,12 +435,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YOLO ROS: Real-Time Object Detection for ROS",
+            "homepage": null,
             "id": 86843940,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-19T10:36:14Z",
+            "open_issues": 166,
             "owner": "leggedrobotics",
             "repo": "darknet_ros",
-            "stars": 2438
+            "stars": 2438,
+            "topics": [
+              "computer-vision",
+              "darknet",
+              "darknet-ros",
+              "deep-learning",
+              "human-detection",
+              "object-detection",
+              "ros",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -310,12 +465,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+            "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
             "id": 89247811,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-03T01:59:11Z",
+            "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417
+            "stars": 34417,
+            "topics": [
+              "caffe",
+              "computer-vision",
+              "cpp",
+              "cvpr-2017",
+              "deep-learning",
+              "face",
+              "foot-estimation",
+              "hand-estimation",
+              "human-behavior-understanding",
+              "human-pose",
+              "human-pose-estimation",
+              "keypoint-detection",
+              "keypoints",
+              "machine-learning",
+              "multi-person",
+              "opencv",
+              "openpose",
+              "pose",
+              "pose-estimation",
+              "real-time"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -332,12 +513,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automated, hardware-independent Hand-Eye Calibration",
+            "homepage": null,
             "id": 95383816,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-30T17:04:51Z",
+            "open_issues": 23,
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
-            "stars": 1174
+            "stars": 1174,
+            "topics": [
+              "calibration",
+              "camera",
+              "hand-eye",
+              "hand-eye-calibration",
+              "robot",
+              "ros"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -348,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AHRS Firmware for the SparkFun 9DOF Razor IMU and SparkFun 9DOF Sensor Stick",
+            "homepage": null,
             "id": 12664558,
             "language": "Arduino",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-28T15:20:08Z",
+            "open_issues": 60,
             "owner": "Razor-AHRS",
             "repo": "razor-9dof-ahrs",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -364,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "razor 9 dof imu m0 calibration record",
+            "homepage": null,
             "id": 194861507,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-07-29T16:38:14Z",
+            "open_issues": 0,
             "owner": "shannon112",
             "repo": "imu_calibration",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -386,12 +589,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Estimation of 2D odometry based on planar laser scans. Useful for mobile robots with innacurate base odometry. For full description of the algorithm, please refer to: Planar Odometry from a Radial Laser Scanner. A Range Flow-based Approach. ICRA 2016 Available at: http://mapir.isa.uma.es/mapirwebsite/index.php/mapir-downloads/papers/217",
+            "homepage": null,
             "id": 82200214,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-31T08:02:18Z",
+            "open_issues": 30,
             "owner": "MAPIRlab",
             "repo": "rf2o_laser_odometry",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "laser",
+              "odometry",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -402,12 +614,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Robust and Versatile Monocular Visual-Inertial State Estimator",
+            "homepage": null,
             "id": 91875325,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-14T17:28:14Z",
+            "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6013
+            "stars": 6013,
+            "topics": [
+              "state-estimation",
+              "vins",
+              "vio"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -418,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Direct Sparse Odometry",
+            "homepage": null,
             "id": 73256421,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-23T16:15:26Z",
+            "open_issues": 138,
             "owner": "JakobEngel",
             "repo": "dso",
-            "stars": 2454
+            "stars": 2454,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -434,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semi-direct Visual Odometry",
+            "homepage": null,
             "id": 17672262,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-08-22T21:27:36Z",
+            "open_issues": 193,
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
-            "stars": 2230
+            "stars": 2230,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -450,12 +681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OKVIS: Open Keyframe-based Visual-Inertial SLAM.",
+            "homepage": null,
             "id": 51096220,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-24T10:19:14Z",
+            "open_issues": 67,
             "owner": "ethz-asl",
             "repo": "okvis",
-            "stars": 1367
+            "stars": 1367,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -466,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 40291700,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-19T08:57:56Z",
+            "open_issues": 83,
             "owner": "ethz-asl",
             "repo": "rovio",
-            "stars": 1263
+            "stars": 1263,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -482,12 +723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An optimization-based multi-sensor state estimator",
+            "homepage": null,
             "id": 165091078,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-23T09:17:03Z",
+            "open_issues": 212,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4689
+            "stars": 4689,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -498,12 +744,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MATLAB Implementation of Visual Odometry using SOFT algorithm",
+            "homepage": null,
             "id": 85862686,
             "language": "Matlab",
+            "license": "MIT",
             "last_commit": "2018-11-23T17:37:38Z",
+            "open_issues": 1,
             "owner": "Mayankm96",
             "repo": "Stereo-Odometry-SOFT",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "matlab",
+              "odometry",
+              "robotics",
+              "stereo-vision",
+              "visual-odometry"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -514,12 +771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dense Visual Odometry",
+            "homepage": "https://vision.in.tum.de/data/software/dvo",
             "id": 7090966,
             "language": "C++",
+            "license": null,
             "last_commit": "2013-07-11T14:04:47Z",
+            "open_issues": 15,
             "owner": "tum-vision",
             "repo": "dvo",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -530,12 +792,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Laser Odometry and Mapping (Loam) is a realtime method for state estimation and mapping using a 3D lidar.",
+            "homepage": "http://wiki.ros.org/loam_velodyne",
             "id": 51070210,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-18T17:00:43Z",
+            "open_issues": 108,
             "owner": "laboshinl",
             "repo": "loam_velodyne",
-            "stars": 1759
+            "stars": 1759,
+            "topics": [
+              "3d",
+              "computer-vision",
+              "lidar",
+              "loam",
+              "loam-velodyne",
+              "mapping",
+              "pcl",
+              "pointcloud",
+              "ros",
+              "slam",
+              "velodyne"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -546,12 +825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lidar-Monocular Visual Odometry",
+            "homepage": null,
             "id": 125035290,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-28T22:01:32Z",
+            "open_issues": 6,
             "owner": "johannes-graeter",
             "repo": "limo",
-            "stars": 893
+            "stars": 893,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -562,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Implementation of DeepVO",
+            "homepage": null,
             "id": 129643607,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-15T08:18:54Z",
+            "open_issues": 45,
             "owner": "ChiWeiHsiao",
             "repo": "DeepVO-pytorch",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -578,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem",
+            "homepage": null,
             "id": 123801056,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-28T15:30:47Z",
+            "open_issues": 8,
             "owner": "HTLife",
             "repo": "VINet",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -605,12 +899,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "g2o: A General Framework for Graph Optimization",
+                "homepage": null,
                 "id": 3161336,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-24T19:33:04Z",
+                "open_issues": 7,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3461
+                "stars": 3461,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "g2o",
+                  "graph-optimization",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-29T00:38:54.340Z"
             }
@@ -623,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+            "homepage": null,
             "id": 50255244,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-15T07:48:28Z",
+            "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224
+            "stars": 10224,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -639,12 +949,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SceneLib2 is an open-source C++ library for SLAM originally designed and implemented by Professor Andrew Davison at Imperial College London.",
+            "homepage": null,
             "id": 6156258,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2015-12-28T09:43:39Z",
+            "open_issues": 6,
             "owner": "hanmekim",
             "repo": "SceneLib2",
-            "stars": 379
+            "stars": 379,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -655,12 +970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities",
+            "homepage": null,
             "id": 50255244,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-15T07:48:28Z",
+            "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224
+            "stars": 10224,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -671,12 +991,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+            "homepage": null,
             "id": 280608729,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-24T08:41:52Z",
+            "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8992
+            "stars": 8992,
+            "topics": [
+              "slam-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -687,12 +1014,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time dense visual SLAM system",
+            "homepage": null,
             "id": 44748564,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-03T10:04:09Z",
+            "open_issues": 4,
             "owner": "mp3guy",
             "repo": "ElasticFusion",
-            "stars": 1928
+            "stars": 1928,
+            "topics": [
+              "cuda",
+              "reconstruction",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -703,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RTAB-Map's ROS package.",
+            "homepage": "http://wiki.ros.org/rtabmap_ros",
             "id": 22852474,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T03:26:28Z",
+            "open_issues": 558,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1499
+            "stars": 1499,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -719,12 +1060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dense Visual Odometry and SLAM",
+            "homepage": null,
             "id": 12110125,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-09-21T19:57:35Z",
+            "open_issues": 53,
             "owner": "tum-vision",
             "repo": "dvo_slam",
-            "stars": 669
+            "stars": 669,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -735,12 +1081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source implementation of DTAM",
+            "homepage": null,
             "id": 18779765,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-01T19:25:29Z",
+            "open_issues": 32,
             "owner": "anuranbaka",
             "repo": "OpenDTAM",
-            "stars": 288
+            "stars": 288,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -751,12 +1102,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping",
+            "homepage": null,
             "id": 276269866,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-02-14T10:05:51Z",
+            "open_issues": 183,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4899
+            "stars": 4899,
+            "topics": [
+              "3d-mapping",
+              "lidar-inertial",
+              "lidar-odometry",
+              "lidar-slam",
+              "loam-velodyne",
+              "ouster",
+              "ouster-slam",
+              "slam",
+              "velodyne",
+              "velodyne-slam"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -767,12 +1134,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain",
+            "homepage": null,
             "id": 139863328,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-17T07:20:25Z",
+            "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2753
+            "stars": 2753,
+            "topics": [
+              "gtsam",
+              "ieee",
+              "imu",
+              "iros",
+              "isam",
+              "jackal",
+              "lidar",
+              "lidar-odometry",
+              "loam",
+              "mapping",
+              "odometry",
+              "ros",
+              "slam",
+              "ugv",
+              "velodyne"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -783,12 +1171,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "3D LIDAR-based Graph SLAM",
+            "homepage": null,
             "id": 115905660,
             "language": "C++",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-16T01:39:14Z",
+            "open_issues": 126,
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2332
+            "stars": 2332,
+            "topics": [
+              "hdl-graph-slam",
+              "lidar",
+              "point-cloud",
+              "ros",
+              "rslidar",
+              "slam",
+              "velodyne"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -799,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 51559354,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2016-08-02T00:10:33Z",
+            "open_issues": 43,
             "owner": "erik-nelson",
             "repo": "blam",
-            "stars": 795
+            "stars": 795,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -815,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS package for ViTa-SLAM a bio-inspired visuo-tactile SLAM framework.",
+            "homepage": "https://irobotics.aalto.fi/bio-inspired-robotics/",
             "id": 235538766,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-04-09T12:06:31Z",
+            "open_issues": 1,
             "owner": "aalto-intelligent-robotics",
             "repo": "ViTa-SLAM",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -831,12 +1242,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Index repo for Kimera code",
+            "homepage": null,
             "id": 208689257,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2021-01-30T22:12:14Z",
+            "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2119
+            "stars": 2119,
+            "topics": [
+              "3d-reconstruction",
+              "computer-vision",
+              "robotics",
+              "semantics",
+              "slam",
+              "visual-inertial-odometry"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -853,12 +1276,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.",
+            "homepage": null,
             "id": 56137228,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-01T05:21:48Z",
+            "open_issues": 77,
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "mapping",
+              "robotics",
+              "voxblox"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -869,12 +1301,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is the open-source version of ICRA 2019 submission \"Real-time Scalable Dense Surfel Mapping\"",
+            "homepage": null,
             "id": 149085058,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-03-12T04:03:11Z",
+            "open_issues": 22,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "DenseSurfelMapping",
-            "stars": 708
+            "stars": 708,
+            "topics": [
+              "computer-vision",
+              "drones",
+              "quadrotor",
+              "robotics"
+            ]
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         },
@@ -885,12 +1327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source version of the Chisel chunked TSDF library.",
+            "homepage": null,
             "id": 27139533,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-04-15T00:01:10Z",
+            "open_issues": 9,
             "owner": "personalrobotics",
             "repo": "OpenChisel",
-            "stars": 504
+            "stars": 504,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
         }
@@ -899,15 +1346,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:38:54.340Z",
+    "last_updated": "2026-08-29T04:41:24.039Z",
     "original_repository_info": {
       "archived": false,
+      "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
+      "homepage": null,
       "id": 169895457,
       "language": null,
+      "license": null,
       "last_commit": "2025-10-31T18:40:12Z",
+      "open_issues": 10,
       "owner": "shannon112",
       "repo": "awesome-ros-mobile-robot",
-      "stars": 498
+      "stars": 498,
+      "topics": [
+        "awesome-list",
+        "manipulation",
+        "mobile-robots",
+        "navigation",
+        "odometry",
+        "robotics",
+        "ros",
+        "slam"
+      ]
     },
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
     "enhanced_repository": "enhansome/enhansome-ros-mobile-robot",
