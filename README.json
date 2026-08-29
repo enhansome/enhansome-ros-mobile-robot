@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-08-28T22:05:40Z",
-            "open_issues": 181,
+            "open_issues": 182,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 990,
+            "stars": 991,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-28T18:03:08Z",
+            "last_commit": "2026-08-29T12:05:33Z",
             "open_issues": 53,
             "owner": "gazebosim",
             "repo": "docs",
@@ -214,7 +214,7 @@
             "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1414,
+            "stars": 1415,
             "topics": [
               "moveit",
               "ros-industrial",
@@ -904,8 +904,8 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-24T19:33:04Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-29T12:17:24Z",
+                "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3461,
@@ -937,7 +937,7 @@
             "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224,
+            "stars": 10225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -979,7 +979,7 @@
             "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10224,
+            "stars": 10225,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:24.039Z",
+    "last_updated": "2026-08-29T19:29:22.559Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",

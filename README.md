@@ -9,11 +9,11 @@ This repository provides some useful resources and informations about **autonomo
 
 <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/ardent-small.png" height="100"> <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/bouncy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/crystal-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/dashing-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/eloquent-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/foxy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/galactic-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/humble-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/iron-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/jazzy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases/kilted-small.png" height="100"> <img src="https://docs.ros.org/en/rolling/_static/rolling-small.png" height="100"> <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="50">
 
-* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 990 | 🐛 181 | 🌐 Python | 📅 2026-08-28
+* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 991 | 🐛 182 | 🌐 Python | 📅 2026-08-28
 
 <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/c/0/c07ed8ccb18e6fd8af1598ca029d76d4a27a879c.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/6/2/629365c3e205ed2af779f10f97de1803da553079_2_500x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/f/df2d2637fdd844539308fdc5dc69f5cf7ebbde1f_2_481x500.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/d/d99f9b82bd4e581ed196ce22b60779ae40fb4b4a.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/2/4/245fe95194e3f386c759a502e5cecc85c1d21662_2_479x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/f/d/fd1d497cf2dca914193749dc879219d38aa8f68f.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/1/172515c19dce746bebdb14dae28c9e71358bbc18.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/4/42271ea49e65a4dd05aa49b857ebe15382354912.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/5/d/5d70b6ffe3fdff6830858a4661e8b15fc09a62fc.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/a/2/a29132aa6b54103c0dd475ec5ac02bcc328711b0.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/2/0/203de9c4e0ad163733a8995219ca1067a7aac644.png" height="100"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" height="50">
 
-* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 53 | 🌐 Python | 📅 2026-08-28
+* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 53 | 🌐 Python | 📅 2026-08-29
 
 <img src="https://images.squarespace-cdn.com/content/606d378755a86f589aa297b7/0d69d383-5e1e-4689-82d0-7bd8e875e03e/openrobotics_gripper_only-200x200.png?content-type=image%2Fpng" height="50">
 
@@ -188,7 +188,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🤖 ROS Manipulator Github
 
-* "Universal Robot 3/5/10/e": <https://github.com/ros-industrial/universal_robot> ⭐ 1,414 | 🐛 45 | 🌐 C++ | 📅 2026-07-20
+* "Universal Robot 3/5/10/e": <https://github.com/ros-industrial/universal_robot> ⭐ 1,415 | 🐛 45 | 🌐 C++ | 📅 2026-07-20
 * "Franka Emika panda": <https://github.com/frankaemika/franka_ros> ⭐ 488 | 🐛 118 | 🌐 C++ | 📅 2025-10-24 | <https://github.com/ros-planning/panda_moveit_config> ⭐ 122 | 🐛 7 | 🌐 CMake | 📅 2025-02-06
 * "Techman Robot": <https://github.com/kentsai0319/techman_robot> ⭐ 25 | 🐛 3 | 🌐 C++ | 📅 2021-03-16
 
@@ -448,7 +448,7 @@ This repository provides some useful resources and informations about **autonomo
 * Particle Filter Based
   * `Gmapping, FastSLAM, FastSLAM2.0`
 * Graph Optimization Based
-  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,461 | 🐛 7 | 🌐 C++ | 📅 2026-08-24: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
+  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,461 | 🐛 5 | 🌐 C++ | 📅 2026-08-29: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
   * Method: `Bundle Adjustment(BA), Pose Graph, Factor Graph`
   * Regression Solution: `Gaussian Netwon (GN), Leverberg Marquert(LM)`
   * Efficiently Solving: `Cholesky Factorization, QR Decomposition, Conjugate Gradients`
@@ -493,7 +493,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📷 3D Visual Based SLAM (Mono)
 
-* "ORB-SLAM": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,224 | 🐛 805 | 🌐 C++ | 📅 2024-05-15 `Feature + (BA + Pose-Graph)`
+* "ORB-SLAM": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,225 | 🐛 805 | 🌐 C++ | 📅 2024-05-15 `Feature + (BA + Pose-Graph)`
   > Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. IEEE Transactions on Robotics, vol. 31, no. 5, pp. 1147-1163, 2015.\
   > Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. IEEE Transactions on Robotics, vol. 28, no. 5, pp. 1188-1197, 2012.
 * "MonoSLAM": <https://github.com/hanmekim/SceneLib2> ⭐ 379 | 🐛 6 | 🌐 C++ | 📅 2015-12-28 `Feature + EKF`
@@ -505,7 +505,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 3D RGB-D/Stereo Based SLAM
 
-* "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,224 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
+* "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,225 | 🐛 805 | 🌐 C++ | 📅 2024-05-15
   > Raúl Mur-Artal and Juan D. Tardós. ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, 2017.
 * "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 8,992 | 🐛 571 | 🌐 C++ | 📅 2024-07-24
   > \[ORB-SLAM3] Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel and Juan D. Tardós, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Under review.\
@@ -675,7 +675,7 @@ This repository provides some useful resources and informations about **autonomo
 
 # 10\_Manipulation
 
-🖐️ ROS Moveit (move\_group architecture) <https://github.com/ros-planning/moveit.git> ⭐ 2,081 | 🐛 621 | 🌐 C++ | 📅 2026-07-20 <img src="https://moveit.ros.org/assets/images/diagrams/moveit_pipeline.png" width=700>
+🖐️ ROS Moveit (move\_group architecture) <https://github.com/ros-planning/moveit.git> ⭐ 2,082 | 🐛 621 | 🌐 C++ | 📅 2026-07-20 <img src="https://moveit.ros.org/assets/images/diagrams/moveit_pipeline.png" width=700>
 
 📚 Planner Library
 
