@@ -12,11 +12,12 @@
             "archived": false,
             "id": 148210342,
             "language": "Python",
-            "last_commit": "2026-08-27T23:56:10Z",
+            "last_commit": "2026-08-28T22:05:40Z",
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 988
-          }
+            "stars": 990
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 255865180,
             "language": "Python",
-            "last_commit": "2026-08-27T17:15:59Z",
+            "last_commit": "2026-08-28T18:03:08Z",
             "owner": "gazebosim",
             "repo": "docs",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "Hypha-ROS",
             "repo": "hypharos_racecar",
             "stars": 264
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
             "stars": 2049
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "RobotnikAutomation",
             "repo": "summit_xl_sim",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "RobotnikAutomation",
             "repo": "rbkairos_sim",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "RobotnikAutomation",
             "repo": "rb1_sim",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-07-20T12:26:36Z",
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1413
-          }
+            "stars": 1414
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "frankarobotics",
             "repo": "franka_ros",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "kentsai0319",
             "repo": "techman_robot",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "2_Robotic_Platform"
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 52400453,
             "language": "Python",
-            "last_commit": "2026-08-06T09:12:59Z",
+            "last_commit": "2026-08-28T14:33:59Z",
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3425
-          }
+            "stars": 3426
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "code-iai",
             "repo": "iai_kinect2",
             "stars": 896
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "ros-drivers",
             "repo": "openni2_camera",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "ros-drivers",
             "repo": "openni_camera",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "ros-drivers",
             "repo": "freenect_stack",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "dilipkumar25",
             "repo": "see3cam",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "hku-mars",
             "repo": "loam_livox",
             "stars": 1619
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "leggedrobotics",
             "repo": "darknet_ros",
             "stars": 2438
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34418
-          }
+            "stars": 34417
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "3_Robotic_Sensing"
@@ -319,7 +338,8 @@
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "Razor-AHRS",
             "repo": "razor-9dof-ahrs",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "shannon112",
             "repo": "imu_calibration",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "4_Calibration"
@@ -369,8 +391,9 @@
             "last_commit": "2024-01-31T08:02:18Z",
             "owner": "MAPIRlab",
             "repo": "rf2o_laser_odometry",
-            "stars": 489
-          }
+            "stars": 490
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -384,8 +407,9 @@
             "last_commit": "2024-08-14T17:28:14Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6012
-          }
+            "stars": 6013
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "JakobEngel",
             "repo": "dso",
             "stars": 2454
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
             "stars": 2230
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -429,8 +455,9 @@
             "last_commit": "2021-08-24T10:19:14Z",
             "owner": "ethz-asl",
             "repo": "okvis",
-            "stars": 1366
-          }
+            "stars": 1367
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -444,8 +471,9 @@
             "last_commit": "2026-01-19T08:57:56Z",
             "owner": "ethz-asl",
             "repo": "rovio",
-            "stars": 1262
-          }
+            "stars": 1263
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -459,8 +487,9 @@
             "last_commit": "2024-05-23T09:17:03Z",
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4687
-          }
+            "stars": 4689
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "Mayankm96",
             "repo": "Stereo-Odometry-SOFT",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "tum-vision",
             "repo": "dvo",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "laboshinl",
             "repo": "loam_velodyne",
             "stars": 1759
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -520,7 +552,8 @@
             "owner": "johannes-graeter",
             "repo": "limo",
             "stars": 893
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -535,7 +568,8 @@
             "owner": "ChiWeiHsiao",
             "repo": "DeepVO-pytorch",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -550,7 +584,8 @@
             "owner": "HTLife",
             "repo": "VINet",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "5_Odometry"
@@ -576,7 +611,8 @@
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
                 "stars": 3461
-              }
+              },
+              "first_seen": "2026-08-29T00:38:54.340Z"
             }
           ]
         },
@@ -592,8 +628,9 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10223
-          }
+            "stars": 10224
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -608,7 +645,8 @@
             "owner": "hanmekim",
             "repo": "SceneLib2",
             "stars": 379
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -622,8 +660,9 @@
             "last_commit": "2024-05-15T07:48:28Z",
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10223
-          }
+            "stars": 10224
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -637,8 +676,9 @@
             "last_commit": "2024-07-24T08:41:52Z",
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8987
-          }
+            "stars": 8992
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -652,8 +692,9 @@
             "last_commit": "2025-08-03T10:04:09Z",
             "owner": "mp3guy",
             "repo": "ElasticFusion",
-            "stars": 1927
-          }
+            "stars": 1928
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -667,8 +708,9 @@
             "last_commit": "2026-08-27T03:26:28Z",
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1498
-          }
+            "stars": 1499
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -683,7 +725,8 @@
             "owner": "tum-vision",
             "repo": "dvo_slam",
             "stars": 669
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -698,7 +741,8 @@
             "owner": "anuranbaka",
             "repo": "OpenDTAM",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -712,8 +756,9 @@
             "last_commit": "2025-02-14T10:05:51Z",
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4895
-          }
+            "stars": 4899
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -728,7 +773,8 @@
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
             "stars": 2753
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -742,8 +788,9 @@
             "last_commit": "2024-07-16T01:39:14Z",
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2333
-          }
+            "stars": 2332
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -758,7 +805,8 @@
             "owner": "erik-nelson",
             "repo": "blam",
             "stars": 795
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -773,7 +821,8 @@
             "owner": "aalto-intelligent-robotics",
             "repo": "ViTa-SLAM",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -788,7 +837,8 @@
             "owner": "MIT-SPARK",
             "repo": "Kimera",
             "stars": 2119
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "6_SLAM"
@@ -809,7 +859,8 @@
             "owner": "ethz-asl",
             "repo": "voxblox",
             "stars": 1666
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -824,7 +875,8 @@
             "owner": "HKUST-Aerial-Robotics",
             "repo": "DenseSurfelMapping",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         },
         {
           "node_type": "item",
@@ -839,14 +891,15 @@
             "owner": "personalrobotics",
             "repo": "OpenChisel",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-29T00:38:54.340Z"
         }
       ],
       "title": "8_Mapping"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:05:44.735Z",
+    "last_updated": "2026-08-29T00:38:54.340Z",
     "original_repository_info": {
       "archived": false,
       "id": 169895457,
@@ -854,7 +907,7 @@
       "last_commit": "2025-10-31T18:40:12Z",
       "owner": "shannon112",
       "repo": "awesome-ros-mobile-robot",
-      "stars": 497
+      "stars": 498
     },
     "original_repository_sha": "a405fbf854248dbb748eb6364a3fb65dc24cd79c",
     "enhanced_repository": "enhansome/enhansome-ros-mobile-robot",
