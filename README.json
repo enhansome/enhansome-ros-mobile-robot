@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-08-29T12:05:33Z",
+            "last_commit": "2026-08-30T11:01:52Z",
             "open_issues": 53,
             "owner": "gazebosim",
             "repo": "docs",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2049,
+            "stars": 2050,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -214,7 +214,7 @@
             "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1415,
+            "stars": 1416,
             "topics": [
               "moveit",
               "ros-industrial",
@@ -285,8 +285,8 @@
             "id": 52400453,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T14:33:59Z",
-            "open_issues": 124,
+            "last_commit": "2026-08-30T18:36:27Z",
+            "open_issues": 125,
             "owner": "realsenseai",
             "repo": "realsense-ros",
             "stars": 3426,
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34417,
+            "stars": 34420,
             "topics": [
               "caffe",
               "computer-vision",
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6013,
+            "stars": 6015,
             "topics": [
               "state-estimation",
               "vins",
@@ -732,7 +732,7 @@
             "open_issues": 212,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4689,
+            "stars": 4690,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 8992,
+            "stars": 8994,
             "topics": [
               "slam-algorithms"
             ]
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:29:22.559Z",
+    "last_updated": "2026-08-30T19:24:48.702Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
