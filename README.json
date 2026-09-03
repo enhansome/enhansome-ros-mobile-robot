@@ -15,11 +15,11 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-02T11:38:59Z",
-            "open_issues": 180,
+            "last_commit": "2026-09-03T16:40:57Z",
+            "open_issues": 179,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 995,
+            "stars": 998,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-02T10:18:58Z",
+            "last_commit": "2026-09-03T10:30:00Z",
             "open_issues": 53,
             "owner": "gazebosim",
             "repo": "docs",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2053,
+            "stars": 2052,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -285,11 +285,11 @@
             "id": 52400453,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T11:33:55Z",
+            "last_commit": "2026-09-03T10:33:14Z",
             "open_issues": 125,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3428,
+            "stars": 3429,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34421,
+            "stars": 34422,
             "topics": [
               "caffe",
               "computer-vision",
@@ -707,7 +707,7 @@
             "id": 40291700,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-01-19T08:57:56Z",
+            "last_commit": "2026-09-03T10:41:50Z",
             "open_issues": 83,
             "owner": "ethz-asl",
             "repo": "rovio",
@@ -937,7 +937,7 @@
             "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10229,
+            "stars": 10230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -979,7 +979,7 @@
             "open_issues": 805,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10229,
+            "stars": 10230,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9018,
+            "stars": 9023,
             "topics": [
               "slam-algorithms"
             ]
@@ -1048,7 +1048,7 @@
             "open_issues": 559,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1502,
+            "stars": 1503,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1180,7 +1180,7 @@
             "open_issues": 126,
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2333,
+            "stars": 2335,
             "topics": [
               "hdl-graph-slam",
               "lidar",
@@ -1251,7 +1251,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2122,
+            "stars": 2123,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:28:37.670Z",
+    "last_updated": "2026-09-03T19:24:33.467Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
