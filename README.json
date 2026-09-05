@@ -19,7 +19,7 @@
             "open_issues": 178,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1000,
+            "stars": 1001,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-04T19:05:01Z",
+            "last_commit": "2026-09-05T09:46:05Z",
             "open_issues": 51,
             "owner": "gazebosim",
             "repo": "docs",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2053,
+            "stars": 2054,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -1000,7 +1000,7 @@
             "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9025,
+            "stars": 9030,
             "topics": [
               "slam-algorithms"
             ]
@@ -1048,7 +1048,7 @@
             "open_issues": 559,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1503,
+            "stars": 1504,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1111,7 +1111,7 @@
             "open_issues": 183,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4903,
+            "stars": 4904,
             "topics": [
               "3d-mapping",
               "lidar-inertial",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:06:04.250Z",
+    "last_updated": "2026-09-05T18:32:56.030Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
