@@ -9,11 +9,11 @@ This repository provides some useful resources and informations about **autonomo
 
 <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/ardent-small.png" height="100"> <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/bouncy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/crystal-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/dashing-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/eloquent-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/foxy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/galactic-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/humble-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/iron-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/jazzy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases/kilted-small.png" height="100"> <img src="https://docs.ros.org/en/rolling/_static/rolling-small.png" height="100"> <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="50">
 
-* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 1,002 | 🐛 178 | 🌐 Python | 📅 2026-09-04
+* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 1,004 | 🐛 179 | 🌐 Python | 📅 2026-09-07
 
 <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/c/0/c07ed8ccb18e6fd8af1598ca029d76d4a27a879c.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/6/2/629365c3e205ed2af779f10f97de1803da553079_2_500x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/f/df2d2637fdd844539308fdc5dc69f5cf7ebbde1f_2_481x500.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/d/d99f9b82bd4e581ed196ce22b60779ae40fb4b4a.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/2/4/245fe95194e3f386c759a502e5cecc85c1d21662_2_479x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/f/d/fd1d497cf2dca914193749dc879219d38aa8f68f.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/1/172515c19dce746bebdb14dae28c9e71358bbc18.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/4/42271ea49e65a4dd05aa49b857ebe15382354912.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/5/d/5d70b6ffe3fdff6830858a4661e8b15fc09a62fc.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/a/2/a29132aa6b54103c0dd475ec5ac02bcc328711b0.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/2/0/203de9c4e0ad163733a8995219ca1067a7aac644.png" height="100"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" height="50">
 
-* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 51 | 🌐 Python | 📅 2026-09-06
+* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 51 | 🌐 Python | 📅 2026-09-07
 
 <img src="https://images.squarespace-cdn.com/content/606d378755a86f589aa297b7/0d69d383-5e1e-4689-82d0-7bd8e875e03e/openrobotics_gripper_only-200x200.png?content-type=image%2Fpng" height="50">
 
@@ -170,7 +170,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🤖 ROS Mobile Robot Github
 
-* "turtlebot3": <https://github.com/ROBOTIS-GIT/turtlebot3> ⭐ 2,055 | 🐛 16 | 🌐 C++ | 📅 2026-06-15
+* "turtlebot3": <https://github.com/ROBOTIS-GIT/turtlebot3> ⭐ 2,056 | 🐛 16 | 🌐 C++ | 📅 2026-06-15
 * "Robotnik XL-GEN": <https://github.com/RobotnikAutomation/summit_xl_sim> ⭐ 78 | 🐛 17 | 🌐 Dockerfile | 📅 2025-04-07 or summit\_xl\_common
 * "Robotnik RB-KAIROS": <https://github.com/RobotnikAutomation/rbkairos_sim> ⭐ 32 | 🐛 4 | 🌐 CMake | 📅 2024-05-03 or rbkairos\_common
 * "turtlebot": <https://github.com/turtlebot>
@@ -216,7 +216,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 RGB-D Camera
 
-* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,430 | 🐛 124 | 🌐 Python | 📅 2026-09-06
+* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,429 | 🐛 124 | 🌐 Python | 📅 2026-09-07
 * "Microsoft kinect one/v2": <https://github.com/code-iai/iai_kinect2> ⭐ 897 | 🐛 152 | 🌐 C++ | 📅 2023-04-13
 * "Asus xtion with openni2": <https://github.com/ros-drivers/openni2_camera> ⭐ 68 | 🐛 12 | 🌐 C++ | 📅 2025-05-22
 * "Microsoft kinectv1 with openni": <https://github.com/ros-drivers/openni_camera> ⭐ 51 | 🐛 25 | 🌐 C++ | 📅 2024-08-14
@@ -307,7 +307,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 Learning-Based Human Pose Estimation
 
-* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,427 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,433 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * "OpenPose-plugin": <https://github.com/ildoonet/tf-pose-estimation>
 
 # 4\_Calibration
@@ -364,12 +364,12 @@ This repository provides some useful resources and informations about **autonomo
 
 💡 2D Laser Based Odometry
 
-* "rf2o": <https://github.com/MAPIRlab/rf2o_laser_odometry> ⭐ 490 | 🐛 30 | 🌐 C++ | 📅 2024-01-31
+* "rf2o": <https://github.com/MAPIRlab/rf2o_laser_odometry> ⭐ 491 | 🐛 30 | 🌐 C++ | 📅 2024-01-31
   > M. Jaimez, J. Monroy, J. Gonzalez-Jimenez, Planar Odometry from a Radial Laser Scanner. A Range Flow-based Approach, IEEE International Conference on Robotics and Automation (ICRA), Stockholm, Sweden, pp. 4479-4485, 2016.
 
 📷 3D Visual Based Odometry (Mono)
 
-* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,020 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,021 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
   > Qin, Tong, Peiliang Li, and Shaojie Shen. "Vins-mono: A robust and versatile monocular visual-inertial state estimator." IEEE Transactions on Robotics 34.4 (2018): 1004-1020.
 * "DSO": <https://github.com/JakobEngel/dso> ⭐ 2,454 | 🐛 138 | 🌐 C++ | 📅 2024-02-23 `Sparse Direct Method`
   > Engel, Jakob, Vladlen Koltun, and Daniel Cremers. "Direct sparse odometry." IEEE transactions on pattern analysis and machine intelligence 40.3 (2017): 611-625.
@@ -391,7 +391,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 3D RGB-D/Stereo Based Odometry
 
-* "VINS-Fusion": <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion> ⭐ 4,697 | 🐛 212 | 🌐 C++ | 📅 2024-05-23
+* "VINS-Fusion": <https://github.com/HKUST-Aerial-Robotics/VINS-Fusion> ⭐ 4,699 | 🐛 212 | 🌐 C++ | 📅 2024-05-23
   > Qin, Tong, and Shaojie Shen. "Online temporal calibration for monocular visual-inertial systems." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.
 * "SOFT": <https://github.com/Mayankm96/Stereo-Odometry-SOFT> ⭐ 210 | 🐛 1 | 🌐 Matlab | 📅 2018-11-23
   > Cvišic, Igor, et al. "Soft-slam: Computationally efficient stereo visual slam for autonomous uavs." Journal of field robotics (2017).\
@@ -405,7 +405,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 3D LiDAR Based Odometry
 
-* "LOAM & V-LOAM": <https://github.com/laboshinl/loam_velodyne> ⭐ 1,759 | 🐛 108 | 🌐 C++ | 📅 2019-06-18
+* "LOAM & V-LOAM": <https://github.com/laboshinl/loam_velodyne> ⭐ 1,760 | 🐛 108 | 🌐 C++ | 📅 2019-06-18
   > J Zhang, S Singh, "LOAM: Lidar Odometry and Mapping in Real-time", Robotics: Science and Systems Conference (RSS 2014)\
   > J Zhang, S Singh, "Visual-lidar Odometry and Mapping: Low-drift, Robust, and Fast", IEEE International Conference on Robotics and Automation (ICRA)\
   > J. Zhang, M. Kaess and S. Singh: Real-time Depth Enhanced Monocular Odometry. IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2014.
@@ -448,7 +448,7 @@ This repository provides some useful resources and informations about **autonomo
 * Particle Filter Based
   * `Gmapping, FastSLAM, FastSLAM2.0`
 * Graph Optimization Based
-  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,463 | 🐛 6 | 🌐 C++ | 📅 2026-08-31: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
+  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,462 | 🐛 6 | 🌐 C++ | 📅 2026-09-07: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
   * Method: `Bundle Adjustment(BA), Pose Graph, Factor Graph`
   * Regression Solution: `Gaussian Netwon (GN), Leverberg Marquert(LM)`
   * Efficiently Solving: `Cholesky Factorization, QR Decomposition, Conjugate Gradients`
@@ -507,14 +507,14 @@ This repository provides some useful resources and informations about **autonomo
 
 * "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,233 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
   > Raúl Mur-Artal and Juan D. Tardós. ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, 2017.
-* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,031 | 🐛 571 | 🌐 C++ | 📅 2024-07-24
+* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,034 | 🐛 571 | 🌐 C++ | 📅 2024-07-24
   > \[ORB-SLAM3] Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel and Juan D. Tardós, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Under review.\
   > \[IMU-Initialization] Carlos Campos, J. M. M. Montiel and Juan D. Tardós, Inertial-Only Optimization for Visual-Inertial Initialization, ICRA 2020.\
   > \[ORBSLAM-Atlas] Richard Elvira, J. M. M. Montiel and Juan D. Tardós, ORBSLAM-Atlas: a robust and accurate multi-map system, IROS 2019.\
   > \[ORBSLAM-VI] Raúl Mur-Artal, and Juan D. Tardós, Visual-inertial monocular SLAM with map reuse, IEEE Robotics and Automation Letters, vol. 2 no. 2, pp. 796-803, 2017.
 * "ElasticFusion": <https://github.com/mp3guy/ElasticFusion> ⭐ 1,927 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
   > Whelan, Thomas, et al. "ElasticFusion: Dense SLAM without a pose graph." Robotics: Science and Systems, 2015.
-* "RTAB-Map": <http://introlab.github.io/rtabmap/> | <https://github.com/introlab/rtabmap_ros> ⭐ 1,508 | 🐛 560 | 🌐 C++ | 📅 2026-09-06
+* "RTAB-Map": <http://introlab.github.io/rtabmap/> | <https://github.com/introlab/rtabmap_ros> ⭐ 1,511 | 🐛 561 | 🌐 C++ | 📅 2026-09-07
   > M. Labbé and F. Michaud, “RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation,” in Journal of Field Robotics, vol. 36, no. 2, pp. 416–446, 2019. (Wiley) Universit ́e de Sherbrooke\
   > M. Labbé and F. Michaud, “Long-term online multi-session graph-based SPLAM with memory management,” in Autonomous Robots, vol. 42, no. 6, pp. 1133-1150, 2018.\
   > M. Labbé and F. Michaud, “Online Global Loop Closure Detection for Large-Scale Multi-Session Graph-Based SLAM,” in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2014.\
@@ -538,7 +538,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 3D LiDAR Based SLAM
 
-* "LIO-SAM": <https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,904 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 (handheld device)
+* "LIO-SAM": <https://github.com/TixiaoShan/LIO-SAM> ⭐ 4,907 | 🐛 183 | 🌐 C++ | 📅 2025-02-14 (handheld device)
   > Shan, Tixiao and Englot, Brendan and Meyers, Drew and Wang, Wei and Ratti, Carlo and Rus Daniela, "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, 2020
 * "Lego-LOAM": <https://github.com/RobustFieldAutonomyLab/LeGO-LOAM> ⭐ 2,754 | 🐛 40 | 🌐 C++ | 📅 2024-08-17
   > T. Shan and B. Englot, "LeGO-LOAM: Lightweight and Ground- Optimized Lidar Odometry and Mapping on Variable Terrain," 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Madrid, 2018, pp. 4758- 4765.
@@ -675,7 +675,7 @@ This repository provides some useful resources and informations about **autonomo
 
 # 10\_Manipulation
 
-🖐️ ROS Moveit (move\_group architecture) <https://github.com/ros-planning/moveit.git> ⭐ 2,083 | 🐛 621 | 🌐 C++ | 📅 2026-07-20 <img src="https://moveit.ros.org/assets/images/diagrams/moveit_pipeline.png" width=700>
+🖐️ ROS Moveit (move\_group architecture) <https://github.com/ros-planning/moveit.git> ⭐ 2,084 | 🐛 621 | 🌐 C++ | 📅 2026-07-20 <img src="https://moveit.ros.org/assets/images/diagrams/moveit_pipeline.png" width=700>
 
 📚 Planner Library
 
@@ -788,4 +788,4 @@ This repository provides some useful resources and informations about **autonomo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
