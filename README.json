@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-10T10:22:45Z",
+            "last_commit": "2026-09-13T10:55:05Z",
             "open_issues": 51,
             "owner": "gazebosim",
             "repo": "docs",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2063,
+            "stars": 2062,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34439,
+            "stars": 34443,
             "topics": [
               "caffe",
               "computer-vision",
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6029,
+            "stars": 6030,
             "topics": [
               "state-estimation",
               "vins",
@@ -834,7 +834,7 @@
             "open_issues": 6,
             "owner": "johannes-graeter",
             "repo": "limo",
-            "stars": 894,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 571,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9061,
+            "stars": 9063,
             "topics": [
               "slam-algorithms"
             ]
@@ -1044,8 +1044,8 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T04:23:24Z",
-            "open_issues": 562,
+            "last_commit": "2026-09-13T18:40:16Z",
+            "open_issues": 563,
             "owner": "introlab",
             "repo": "rtabmap_ros",
             "stars": 1515,
@@ -1143,7 +1143,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2754,
+            "stars": 2753,
             "topics": [
               "gtsam",
               "ieee",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:41:44.566Z",
+    "last_updated": "2026-09-13T18:55:44.440Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
