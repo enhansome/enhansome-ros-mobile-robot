@@ -19,7 +19,7 @@
             "open_issues": 187,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1022,
+            "stars": 1023,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-09-27T11:09:25Z",
+            "last_commit": "2026-09-28T12:28:26Z",
             "open_issues": 54,
             "owner": "gazebosim",
             "repo": "docs",
@@ -106,7 +106,7 @@
             "open_issues": 17,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -241,7 +241,7 @@
             "open_issues": 118,
             "owner": "frankarobotics",
             "repo": "franka_ros",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -285,11 +285,11 @@
             "id": 52400453,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T14:35:24Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-28T10:25:41Z",
+            "open_issues": 127,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3454,
+            "stars": 3456,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34468,
+            "stars": 34475,
             "topics": [
               "caffe",
               "computer-vision",
@@ -522,7 +522,7 @@
             "open_issues": 23,
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
-            "stars": 1177,
+            "stars": 1176,
             "topics": [
               "calibration",
               "camera",
@@ -669,7 +669,7 @@
             "open_issues": 193,
             "owner": "uzh-rpg",
             "repo": "rpg_svo",
-            "stars": 2232,
+            "stars": 2233,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -904,11 +904,11 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-27T09:44:08Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-28T19:57:50Z",
+                "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1000,7 +1000,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9113,
+            "stars": 9118,
             "topics": [
               "slam-algorithms"
             ]
@@ -1023,7 +1023,7 @@
             "open_issues": 4,
             "owner": "mp3guy",
             "repo": "ElasticFusion",
-            "stars": 1928,
+            "stars": 1930,
             "topics": [
               "cuda",
               "reconstruction",
@@ -1044,8 +1044,8 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-27T04:07:05Z",
-            "open_issues": 564,
+            "last_commit": "2026-09-28T20:09:57Z",
+            "open_issues": 563,
             "owner": "introlab",
             "repo": "rtabmap_ros",
             "stars": 1525,
@@ -1180,7 +1180,7 @@
             "open_issues": 126,
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2339,
+            "stars": 2338,
             "topics": [
               "hdl-graph-slam",
               "lidar",
@@ -1251,7 +1251,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2130,
+            "stars": 2131,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:51:09.876Z",
+    "last_updated": "2026-09-28T22:15:24.298Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
