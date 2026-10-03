@@ -15,8 +15,8 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T19:56:50Z",
-            "open_issues": 184,
+            "last_commit": "2026-10-03T18:18:08Z",
+            "open_issues": 185,
             "owner": "ros2",
             "repo": "ros2_documentation",
             "stars": 1031,
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-02T11:41:44Z",
+            "last_commit": "2026-10-03T10:56:40Z",
             "open_issues": 55,
             "owner": "gazebosim",
             "repo": "docs",
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34484,
+            "stars": 34485,
             "topics": [
               "caffe",
               "computer-vision",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:28.187Z",
+    "last_updated": "2026-10-03T19:23:51.163Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
