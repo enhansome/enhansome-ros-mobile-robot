@@ -9,7 +9,7 @@ This repository provides some useful resources and informations about **autonomo
 
 <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/ardent-small.png" height="100"> <img src="https://raw.githubusercontent.com/ros2/ros2_documentation/rolling/source/Releases/bouncy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/crystal-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/dashing-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/eloquent-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/foxy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/galactic-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/humble-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/iron-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/raw/rolling/source/Releases/jazzy-small.png" height="100"> <img src="https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases/kilted-small.png" height="100"> <img src="https://docs.ros.org/en/rolling/_static/rolling-small.png" height="100"> <img src="https://avatars.githubusercontent.com/u/3979232?s=280&v=4" height="50">
 
-* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 1,031 | 🐛 183 | 🌐 Python | 📅 2026-10-02
+* ROS2: <https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst> ⭐ 1,031 | 🐛 184 | 🌐 Python | 📅 2026-10-02
 
 <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/c/0/c07ed8ccb18e6fd8af1598ca029d76d4a27a879c.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/6/2/629365c3e205ed2af779f10f97de1803da553079_2_500x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/f/df2d2637fdd844539308fdc5dc69f5cf7ebbde1f_2_481x500.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/d/d99f9b82bd4e581ed196ce22b60779ae40fb4b4a.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/2/4/245fe95194e3f386c759a502e5cecc85c1d21662_2_479x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/f/d/fd1d497cf2dca914193749dc879219d38aa8f68f.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/1/172515c19dce746bebdb14dae28c9e71358bbc18.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/4/42271ea49e65a4dd05aa49b857ebe15382354912.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/5/d/5d70b6ffe3fdff6830858a4661e8b15fc09a62fc.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/a/2/a29132aa6b54103c0dd475ec5ac02bcc328711b0.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/2/0/203de9c4e0ad163733a8995219ca1067a7aac644.png" height="100"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" height="50">
 
@@ -216,7 +216,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 RGB-D Camera
 
-* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,458 | 🐛 127 | 🌐 Python | 📅 2026-10-01
+* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,459 | 🐛 127 | 🌐 Python | 📅 2026-10-01
 * "Microsoft kinect one/v2": <https://github.com/code-iai/iai_kinect2> ⭐ 897 | 🐛 152 | 🌐 C++ | 📅 2023-04-13
 * "Asus xtion with openni2": <https://github.com/ros-drivers/openni2_camera> ⭐ 68 | 🐛 12 | 🌐 C++ | 📅 2025-05-22
 * "Microsoft kinectv1 with openni": <https://github.com/ros-drivers/openni_camera> ⭐ 51 | 🐛 25 | 🌐 C++ | 📅 2024-08-14
@@ -307,7 +307,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 Learning-Based Human Pose Estimation
 
-* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,483 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,484 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * "OpenPose-plugin": <https://github.com/ildoonet/tf-pose-estimation>
 
 # 4\_Calibration
@@ -448,7 +448,7 @@ This repository provides some useful resources and informations about **autonomo
 * Particle Filter Based
   * `Gmapping, FastSLAM, FastSLAM2.0`
 * Graph Optimization Based
-  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,468 | 🐛 5 | 🌐 C++ | 📅 2026-09-28: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
+  * [g2o Library](https://github.com/RainerKuemmerle/g2o) ⭐ 3,469 | 🐛 5 | 🌐 C++ | 📅 2026-09-28: Kümmerle, Rainer, et al. "g 2 o: A general framework for graph optimization." 2011 IEEE International Conference on Robotics and Automation. IEEE, 2011.
   * Method: `Bundle Adjustment(BA), Pose Graph, Factor Graph`
   * Regression Solution: `Gaussian Netwon (GN), Leverberg Marquert(LM)`
   * Efficiently Solving: `Cholesky Factorization, QR Decomposition, Conjugate Gradients`
@@ -788,4 +788,4 @@ This repository provides some useful resources and informations about **autonomo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

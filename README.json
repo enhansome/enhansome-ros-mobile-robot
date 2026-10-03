@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "ROS2: https://github.com/ros2/ros2_documentation/blob/rolling/source/Releases.rst",
-          "description": null,
+          "description": "ros2/ros2_documentation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-10-02T19:56:50Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "ros2",
             "repo": "ros2_documentation",
             "stars": 1031,
@@ -30,7 +30,7 @@
         {
           "node_type": "item",
           "title": "Gazebo: https://github.com/gazebosim/docs/blob/master/releases.md",
-          "description": null,
+          "description": "gazebosim/docs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "\"Taiwan Hypharos\": https://github.com/Hypha-ROS/hypharos_racecar",
-          "description": null,
+          "description": "Hypha-ROS/hypharos_racecar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "\"turtlebot3\": https://github.com/ROBOTIS-GIT/turtlebot3",
-          "description": null,
+          "description": "ROBOTIS-GIT/turtlebot3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "\"Universal Robot 3/5/10/e\": https://github.com/ros-industrial/universal_robot",
-          "description": null,
+          "description": "ros-industrial/universal_robot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -228,7 +228,7 @@
         {
           "node_type": "item",
           "title": "\"Franka Emika panda\": https://github.com/frankaemika/franka_ros",
-          "description": "https://github.com/ros-planning/panda_moveit_config",
+          "description": "frankarobotics/franka_ros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "\"Techman Robot\": https://github.com/kentsai0319/techman_robot",
-          "description": null,
+          "description": "kentsai0319/techman_robot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -276,7 +276,7 @@
         {
           "node_type": "item",
           "title": "\"Intel RealSense d455/d435/d435i/d415\": https://github.com/intel-ros/realsense",
-          "description": null,
+          "description": "realsenseai/realsense-ros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,7 +289,7 @@
             "open_issues": 127,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3458,
+            "stars": 3459,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "\"Microsoft kinect one/v2\": https://github.com/code-iai/iai_kinect2",
-          "description": null,
+          "description": "code-iai/iai_kinect2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -318,7 +318,7 @@
         {
           "node_type": "item",
           "title": "\"Asus xtion with openni2\": https://github.com/ros-drivers/openni2_camera",
-          "description": null,
+          "description": "ros-drivers/openni2_camera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
         {
           "node_type": "item",
           "title": "\"Microsoft kinectv1 with openni\": https://github.com/ros-drivers/openni_camera",
-          "description": null,
+          "description": "ros-drivers/openni_camera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -365,7 +365,7 @@
         {
           "node_type": "item",
           "title": "\"Microsoft kinectv1 with freenect\": https://github.com/ros-drivers/freenect_stack",
-          "description": null,
+          "description": "ros-drivers/freenect_stack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,7 +386,7 @@
         {
           "node_type": "item",
           "title": "\"e-Con Systems Tara Stereo Camera\": https://github.com/dilipkumar25/see3cam",
-          "description": null,
+          "description": "dilipkumar25/see3cam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "\"Livox\": https://github.com/hku-mars/loam_livox",
-          "description": null,
+          "description": "hku-mars/loam_livox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,7 +431,7 @@
         {
           "node_type": "item",
           "title": "\"YOLOv3\": https://github.com/leggedrobotics/darknet_ros",
-          "description": null,
+          "description": "leggedrobotics/darknet_ros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "\"OpenPose\": https://github.com/CMU-Perceptual-Computing-Lab/openpose",
-          "description": null,
+          "description": "CMU-Perceptual-Computing-Lab/openpose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34483,
+            "stars": 34484,
             "topics": [
               "caffe",
               "computer-vision",
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "\"easy_handeye\": https://github.com/IFL-CAMP/easy_handeye",
-          "description": null,
+          "description": "IFL-CAMP/easy_handeye",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +537,7 @@
         {
           "node_type": "item",
           "title": "\"Github Wiki\": https://github.com/Razor-AHRS/razor-9dof-ahrs/wiki/Tutorial",
-          "description": null,
+          "description": "Razor-AHRS/razor-9dof-ahrs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "\"My Calibration Guide\": https://github.com/shannon112/imu_calibration/blob/master/README.md",
-          "description": null,
+          "description": "shannon112/imu_calibration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -585,7 +585,7 @@
         {
           "node_type": "item",
           "title": "\"rf2o\": https://github.com/MAPIRlab/rf2o_laser_odometry",
-          "description": null,
+          "description": "MAPIRlab/rf2o_laser_odometry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -610,7 +610,7 @@
         {
           "node_type": "item",
           "title": "\"VINS-Mono\": https://github.com/HKUST-Aerial-Robotics/VINS-Mono",
-          "description": null,
+          "description": "HKUST-Aerial-Robotics/VINS-Mono",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -635,7 +635,7 @@
         {
           "node_type": "item",
           "title": "\"DSO\": https://github.com/JakobEngel/dso",
-          "description": null,
+          "description": "JakobEngel/dso",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -656,7 +656,7 @@
         {
           "node_type": "item",
           "title": "\"SVO\": https://github.com/uzh-rpg/rpg_svo",
-          "description": "http://rpg.ifi.uzh.ch/svo2.html",
+          "description": "uzh-rpg/rpg_svo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -677,7 +677,7 @@
         {
           "node_type": "item",
           "title": "\"OKVIS\": https://github.com/ethz-asl/okvis",
-          "description": "https://github.com/ethz-asl/okvis_ros",
+          "description": "ethz-asl/okvis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -698,7 +698,7 @@
         {
           "node_type": "item",
           "title": "\"ROVIO\": https://github.com/ethz-asl/rovio",
-          "description": null,
+          "description": "ethz-asl/rovio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -719,7 +719,7 @@
         {
           "node_type": "item",
           "title": "\"VINS-Fusion\": https://github.com/HKUST-Aerial-Robotics/VINS-Fusion",
-          "description": null,
+          "description": "HKUST-Aerial-Robotics/VINS-Fusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,7 +740,7 @@
         {
           "node_type": "item",
           "title": "\"SOFT\": https://github.com/Mayankm96/Stereo-Odometry-SOFT",
-          "description": null,
+          "description": "Mayankm96/Stereo-Odometry-SOFT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -767,7 +767,7 @@
         {
           "node_type": "item",
           "title": "\"DVO\": https://github.com/tum-vision/dvo",
-          "description": null,
+          "description": "tum-vision/dvo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "\"LOAM & V-LOAM\": https://github.com/laboshinl/loam_velodyne",
-          "description": null,
+          "description": "laboshinl/loam_velodyne",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,7 +821,7 @@
         {
           "node_type": "item",
           "title": "\"LIMO\": https://github.com/johannes-graeter/limo",
-          "description": null,
+          "description": "johannes-graeter/limo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -842,7 +842,7 @@
         {
           "node_type": "item",
           "title": "\"DeepVO\": https://github.com/ChiWeiHsiao/DeepVO-pytorch",
-          "description": "https://github.com/ildoonet/deepvo",
+          "description": "ChiWeiHsiao/DeepVO-pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -863,7 +863,7 @@
         {
           "node_type": "item",
           "title": "\"VINET\": https://github.com/HTLife/VINet",
-          "description": null,
+          "description": "HTLife/VINet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -908,7 +908,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3468,
+                "stars": 3469,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "\"ORB-SLAM\": https://github.com/raulmur/ORB_SLAM2",
-          "description": null,
+          "description": "raulmur/ORB_SLAM2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "\"MonoSLAM\": https://github.com/hanmekim/SceneLib2",
-          "description": null,
+          "description": "hanmekim/SceneLib2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -966,7 +966,7 @@
         {
           "node_type": "item",
           "title": "\"ORB-SLAM2\": https://github.com/raulmur/ORB_SLAM2",
-          "description": null,
+          "description": "raulmur/ORB_SLAM2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,7 +987,7 @@
         {
           "node_type": "item",
           "title": "\"ORB-SLAM3\": https://github.com/UZ-SLAMLab/ORB_SLAM3",
-          "description": null,
+          "description": "UZ-SLAMLab/ORB_SLAM3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,7 +1010,7 @@
         {
           "node_type": "item",
           "title": "\"ElasticFusion\": https://github.com/mp3guy/ElasticFusion",
-          "description": null,
+          "description": "mp3guy/ElasticFusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1035,7 +1035,7 @@
         {
           "node_type": "item",
           "title": "\"RTAB-Map\": http://introlab.github.io/rtabmap/",
-          "description": "https://github.com/introlab/rtabmap_ros",
+          "description": "introlab/rtabmap_ros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1056,7 +1056,7 @@
         {
           "node_type": "item",
           "title": "\"DVO-SLAM\": https://github.com/tum-vision/dvo_slam",
-          "description": null,
+          "description": "tum-vision/dvo_slam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1077,7 +1077,7 @@
         {
           "node_type": "item",
           "title": "\"DTAM\": https://github.com/anuranbaka/OpenDTAM",
-          "description": null,
+          "description": "anuranbaka/OpenDTAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
         {
           "node_type": "item",
           "title": "\"Lego-LOAM\": https://github.com/RobustFieldAutonomyLab/LeGO-LOAM",
-          "description": null,
+          "description": "RobustFieldAutonomyLab/LeGO-LOAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1167,7 +1167,7 @@
         {
           "node_type": "item",
           "title": "\"hdl_graph_slam\": https://github.com/koide3/hdl_graph_slam",
-          "description": null,
+          "description": "koide3/hdl_graph_slam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1196,7 +1196,7 @@
         {
           "node_type": "item",
           "title": "\"BLAM\": https://github.com/erik-nelson/blam",
-          "description": null,
+          "description": "erik-nelson/blam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1217,7 +1217,7 @@
         {
           "node_type": "item",
           "title": "\"ViTa-SLAM\": https://github.com/aalto-intelligent-robotics/ViTa-SLAM",
-          "description": null,
+          "description": "aalto-intelligent-robotics/ViTa-SLAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1238,7 +1238,7 @@
         {
           "node_type": "item",
           "title": "\"Kimera\": https://github.com/MIT-SPARK/Kimera",
-          "description": null,
+          "description": "MIT-SPARK/Kimera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1272,7 +1272,7 @@
         {
           "node_type": "item",
           "title": "\"voxblox (ESDF&TSDF based)\": https://github.com/ethz-asl/voxblox",
-          "description": null,
+          "description": "ethz-asl/voxblox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1297,7 +1297,7 @@
         {
           "node_type": "item",
           "title": "\"DenseSurfelMapping (Surfel based)\": https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping",
-          "description": null,
+          "description": "HKUST-Aerial-Robotics/DenseSurfelMapping",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1323,7 +1323,7 @@
         {
           "node_type": "item",
           "title": "\"OpenChisel (TSDF based)\": https://github.com/personalrobotics/OpenChisel",
-          "description": null,
+          "description": "personalrobotics/OpenChisel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:55:53.619Z",
+    "last_updated": "2026-10-03T05:06:28.187Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
