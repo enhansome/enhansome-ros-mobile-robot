@@ -15,11 +15,11 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-03T18:18:08Z",
-            "open_issues": 185,
+            "last_commit": "2026-10-04T17:36:43Z",
+            "open_issues": 187,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1031,
+            "stars": 1032,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-03T10:56:40Z",
+            "last_commit": "2026-10-04T11:38:14Z",
             "open_issues": 55,
             "owner": "gazebosim",
             "repo": "docs",
@@ -214,7 +214,7 @@
             "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1417,
+            "stars": 1419,
             "topics": [
               "moveit",
               "ros-industrial",
@@ -241,7 +241,7 @@
             "open_issues": 118,
             "owner": "frankarobotics",
             "repo": "franka_ros",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -289,7 +289,7 @@
             "open_issues": 127,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -420,7 +420,7 @@
             "open_issues": 71,
             "owner": "hku-mars",
             "repo": "loam_livox",
-            "stars": 1622,
+            "stars": 1623,
             "topics": [
               "livox-lidar",
               "loam"
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6047,
+            "stars": 6048,
             "topics": [
               "state-estimation",
               "vins",
@@ -711,7 +711,7 @@
             "open_issues": 83,
             "owner": "ethz-asl",
             "repo": "rovio",
-            "stars": 1268,
+            "stars": 1269,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -732,7 +732,7 @@
             "open_issues": 212,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4734,
+            "stars": 4736,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1044,8 +1044,8 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T02:18:18Z",
-            "open_issues": 563,
+            "last_commit": "2026-10-04T19:41:50Z",
+            "open_issues": 565,
             "owner": "introlab",
             "repo": "rtabmap_ros",
             "stars": 1526,
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:23:51.163Z",
+    "last_updated": "2026-10-04T19:47:05.699Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
