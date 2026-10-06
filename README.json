@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-05T13:07:05Z",
+            "last_commit": "2026-10-06T12:33:28Z",
             "open_issues": 58,
             "owner": "gazebosim",
             "repo": "docs",
@@ -289,7 +289,7 @@
             "open_issues": 127,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3460,
+            "stars": 3461,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -474,7 +474,7 @@
             "open_issues": 359,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34482,
+            "stars": 34483,
             "topics": [
               "caffe",
               "computer-vision",
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6048,
+            "stars": 6049,
             "topics": [
               "state-estimation",
               "vins",
@@ -1000,7 +1000,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9127,
+            "stars": 9126,
             "topics": [
               "slam-algorithms"
             ]
@@ -1023,7 +1023,7 @@
             "open_issues": 4,
             "owner": "mp3guy",
             "repo": "ElasticFusion",
-            "stars": 1930,
+            "stars": 1931,
             "topics": [
               "cuda",
               "reconstruction",
@@ -1044,7 +1044,7 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T06:39:22Z",
+            "last_commit": "2026-10-06T17:30:57Z",
             "open_issues": 565,
             "owner": "introlab",
             "repo": "rtabmap_ros",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:18.561Z",
+    "last_updated": "2026-10-06T21:11:38.117Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",

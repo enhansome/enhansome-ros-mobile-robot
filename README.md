@@ -13,7 +13,7 @@ This repository provides some useful resources and informations about **autonomo
 
 <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/c/0/c07ed8ccb18e6fd8af1598ca029d76d4a27a879c.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/6/2/629365c3e205ed2af779f10f97de1803da553079_2_500x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/d/f/df2d2637fdd844539308fdc5dc69f5cf7ebbde1f_2_481x500.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/d/d99f9b82bd4e581ed196ce22b60779ae40fb4b4a.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/optimized/3X/2/4/245fe95194e3f386c759a502e5cecc85c1d21662_2_479x500.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/f/d/fd1d497cf2dca914193749dc879219d38aa8f68f.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/1/172515c19dce746bebdb14dae28c9e71358bbc18.jpeg" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/2X/4/42271ea49e65a4dd05aa49b857ebe15382354912.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/5/d/5d70b6ffe3fdff6830858a4661e8b15fc09a62fc.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/a/2/a29132aa6b54103c0dd475ec5ac02bcc328711b0.png" height="100"> <img src="https://us1.discourse-cdn.com/flex022/uploads/ros/original/3X/2/0/203de9c4e0ad163733a8995219ca1067a7aac644.png" height="100"> <img src="https://classic.gazebosim.org/assets/logos/gazebo_icon_pos-76b768ca51b0c24a5e5ddeb5a844baf3a3efc83e42affae355ed6ce9326707e4.svg" height="50">
 
-* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 58 | 🌐 Python | 📅 2026-10-05
+* Gazebo: <https://github.com/gazebosim/docs/blob/master/releases.md> ⭐ 88 | 🐛 58 | 🌐 Python | 📅 2026-10-06
 
 <img src="https://images.squarespace-cdn.com/content/606d378755a86f589aa297b7/0d69d383-5e1e-4689-82d0-7bd8e875e03e/openrobotics_gripper_only-200x200.png?content-type=image%2Fpng" height="50">
 
@@ -216,7 +216,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📸 RGB-D Camera
 
-* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,460 | 🐛 127 | 🌐 Python | 📅 2026-10-01
+* "Intel RealSense d455/d435/d435i/d415": <https://github.com/intel-ros/realsense> ⭐ 3,461 | 🐛 127 | 🌐 Python | 📅 2026-10-01
 * "Microsoft kinect one/v2": <https://github.com/code-iai/iai_kinect2> ⭐ 897 | 🐛 152 | 🌐 C++ | 📅 2023-04-13
 * "Asus xtion with openni2": <https://github.com/ros-drivers/openni2_camera> ⭐ 68 | 🐛 12 | 🌐 C++ | 📅 2025-05-22
 * "Microsoft kinectv1 with openni": <https://github.com/ros-drivers/openni_camera> ⭐ 51 | 🐛 25 | 🌐 C++ | 📅 2024-08-14
@@ -307,7 +307,7 @@ This repository provides some useful resources and informations about **autonomo
 
 🔅 Learning-Based Human Pose Estimation
 
-* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,482 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+* "OpenPose": <https://github.com/CMU-Perceptual-Computing-Lab/openpose> ⭐ 34,483 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
 * "OpenPose-plugin": <https://github.com/ildoonet/tf-pose-estimation>
 
 # 4\_Calibration
@@ -369,7 +369,7 @@ This repository provides some useful resources and informations about **autonomo
 
 📷 3D Visual Based Odometry (Mono)
 
-* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,048 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
+* "VINS-Mono": <https://github.com/HKUST-Aerial-Robotics/VINS-Mono> ⭐ 6,049 | 🐛 293 | 🌐 C++ | 📅 2024-08-14
   > Qin, Tong, Peiliang Li, and Shaojie Shen. "Vins-mono: A robust and versatile monocular visual-inertial state estimator." IEEE Transactions on Robotics 34.4 (2018): 1004-1020.
 * "DSO": <https://github.com/JakobEngel/dso> ⭐ 2,460 | 🐛 138 | 🌐 C++ | 📅 2024-02-23 `Sparse Direct Method`
   > Engel, Jakob, Vladlen Koltun, and Daniel Cremers. "Direct sparse odometry." IEEE transactions on pattern analysis and machine intelligence 40.3 (2017): 611-625.
@@ -507,12 +507,12 @@ This repository provides some useful resources and informations about **autonomo
 
 * "ORB-SLAM2": <https://github.com/raulmur/ORB_SLAM2> ⭐ 10,244 | 🐛 806 | 🌐 C++ | 📅 2024-05-15
   > Raúl Mur-Artal and Juan D. Tardós. ORB-SLAM2: an Open-Source SLAM System for Monocular, Stereo and RGB-D Cameras. IEEE Transactions on Robotics, vol. 33, no. 5, pp. 1255-1262, 2017.
-* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,127 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
+* "ORB-SLAM3": <https://github.com/UZ-SLAMLab/ORB_SLAM3> ⭐ 9,126 | 🐛 573 | 🌐 C++ | 📅 2024-07-24
   > \[ORB-SLAM3] Carlos Campos, Richard Elvira, Juan J. Gómez Rodríguez, José M. M. Montiel and Juan D. Tardós, ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM, Under review.\
   > \[IMU-Initialization] Carlos Campos, J. M. M. Montiel and Juan D. Tardós, Inertial-Only Optimization for Visual-Inertial Initialization, ICRA 2020.\
   > \[ORBSLAM-Atlas] Richard Elvira, J. M. M. Montiel and Juan D. Tardós, ORBSLAM-Atlas: a robust and accurate multi-map system, IROS 2019.\
   > \[ORBSLAM-VI] Raúl Mur-Artal, and Juan D. Tardós, Visual-inertial monocular SLAM with map reuse, IEEE Robotics and Automation Letters, vol. 2 no. 2, pp. 796-803, 2017.
-* "ElasticFusion": <https://github.com/mp3guy/ElasticFusion> ⭐ 1,930 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
+* "ElasticFusion": <https://github.com/mp3guy/ElasticFusion> ⭐ 1,931 | 🐛 4 | 🌐 C++ | 📅 2025-08-03
   > Whelan, Thomas, et al. "ElasticFusion: Dense SLAM without a pose graph." Robotics: Science and Systems, 2015.
 * "RTAB-Map": <http://introlab.github.io/rtabmap/> | <https://github.com/introlab/rtabmap_ros> ⭐ 1,527 | 🐛 565 | 🌐 C++ | 📅 2026-10-06
   > M. Labbé and F. Michaud, “RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation,” in Journal of Field Robotics, vol. 36, no. 2, pp. 416–446, 2019. (Wiley) Universit ́e de Sherbrooke\
