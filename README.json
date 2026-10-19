@@ -15,11 +15,11 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-16T08:04:33Z",
-            "open_issues": 190,
+            "last_commit": "2026-10-19T08:29:20Z",
+            "open_issues": 189,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,8 +39,8 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-18T10:12:23Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-19T16:27:16Z",
+            "open_issues": 58,
             "owner": "gazebosim",
             "repo": "docs",
             "stars": 90,
@@ -106,7 +106,7 @@
             "open_issues": 18,
             "owner": "ROBOTIS-GIT",
             "repo": "turtlebot3",
-            "stars": 2078,
+            "stars": 2080,
             "topics": [
               "dynamixel",
               "gazebo",
@@ -471,10 +471,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2024-08-03T01:59:11Z",
-            "open_issues": 359,
+            "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34504,
+            "stars": 34507,
             "topics": [
               "caffe",
               "computer-vision",
@@ -522,7 +522,7 @@
             "open_issues": 23,
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "calibration",
               "camera",
@@ -830,7 +830,7 @@
             "id": 125035290,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2025-12-28T22:01:32Z",
+            "last_commit": "2026-10-19T15:01:21Z",
             "open_issues": 6,
             "owner": "johannes-graeter",
             "repo": "limo",
@@ -904,11 +904,11 @@
                 "id": 3161336,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-12T20:01:03Z",
+                "last_commit": "2026-10-19T20:03:55Z",
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3471,
+                "stars": 3473,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1000,7 +1000,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9152,
+            "stars": 9161,
             "topics": [
               "slam-algorithms"
             ]
@@ -1044,11 +1044,11 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-14T15:05:52Z",
-            "open_issues": 561,
+            "last_commit": "2026-10-19T06:21:26Z",
+            "open_issues": 558,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1535,
+            "stars": 1536,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1108,10 +1108,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2025-02-14T10:05:51Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4947,
+            "stars": 4948,
             "topics": [
               "3d-mapping",
               "lidar-inertial",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:52:23.293Z",
+    "last_updated": "2026-10-19T21:13:03.848Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
