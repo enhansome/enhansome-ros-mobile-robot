@@ -15,7 +15,7 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-10-27T14:41:33Z",
+            "last_commit": "2026-10-28T17:00:02Z",
             "open_issues": 186,
             "owner": "ros2",
             "repo": "ros2_documentation",
@@ -289,7 +289,7 @@
             "open_issues": 36,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3471,
+            "stars": 3473,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -310,7 +310,7 @@
             "open_issues": 152,
             "owner": "code-iai",
             "repo": "iai_kinect2",
-            "stars": 897,
+            "stars": 896,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -474,7 +474,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34530,
+            "stars": 34534,
             "topics": [
               "caffe",
               "computer-vision",
@@ -522,7 +522,7 @@
             "open_issues": 23,
             "owner": "IFL-CAMP",
             "repo": "easy_handeye",
-            "stars": 1178,
+            "stars": 1179,
             "topics": [
               "calibration",
               "camera",
@@ -598,7 +598,7 @@
             "open_issues": 31,
             "owner": "MAPIRlab",
             "repo": "rf2o_laser_odometry",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "laser",
               "odometry",
@@ -732,7 +732,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4762,
+            "stars": 4764,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9189,
+            "stars": 9195,
             "topics": [
               "slam-algorithms"
             ]
@@ -1048,7 +1048,7 @@
             "open_issues": 558,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1544,
+            "stars": 1545,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1111,7 +1111,7 @@
             "open_issues": 185,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4955,
+            "stars": 4957,
             "topics": [
               "3d-mapping",
               "lidar-inertial",
@@ -1143,7 +1143,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2765,
+            "stars": 2767,
             "topics": [
               "gtsam",
               "ieee",
@@ -1180,7 +1180,7 @@
             "open_issues": 126,
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2339,
+            "stars": 2340,
             "topics": [
               "hdl-graph-slam",
               "lidar",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:55:28.401Z",
+    "last_updated": "2026-10-28T21:17:00.872Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
