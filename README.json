@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-02T11:02:44Z",
-            "open_issues": 185,
+            "open_issues": 184,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-02T23:04:53Z",
+            "last_commit": "2026-11-03T13:21:56Z",
             "open_issues": 59,
             "owner": "gazebosim",
             "repo": "docs",
@@ -214,7 +214,7 @@
             "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1426,
+            "stars": 1428,
             "topics": [
               "moveit",
               "ros-industrial",
@@ -286,10 +286,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T08:54:38Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3477,
+            "stars": 3479,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6068,
+            "stars": 6069,
             "topics": [
               "state-estimation",
               "vins",
@@ -648,7 +648,7 @@
             "open_issues": 138,
             "owner": "JakobEngel",
             "repo": "dso",
-            "stars": 2461,
+            "stars": 2462,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -690,7 +690,7 @@
             "open_issues": 67,
             "owner": "ethz-asl",
             "repo": "okvis",
-            "stars": 1368,
+            "stars": 1369,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -732,7 +732,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4769,
+            "stars": 4770,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -937,7 +937,7 @@
             "open_issues": 806,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10270,
+            "stars": 10271,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -979,7 +979,7 @@
             "open_issues": 806,
             "owner": "raulmur",
             "repo": "ORB_SLAM2",
-            "stars": 10270,
+            "stars": 10271,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 573,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9215,
+            "stars": 9218,
             "topics": [
               "slam-algorithms"
             ]
@@ -1044,11 +1044,11 @@
             "id": 22852474,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-02T05:13:26Z",
-            "open_issues": 557,
+            "last_commit": "2026-11-03T17:49:32Z",
+            "open_issues": 558,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1545,
+            "stars": 1546,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1111,7 +1111,7 @@
             "open_issues": 186,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4966,
+            "stars": 4970,
             "topics": [
               "3d-mapping",
               "lidar-inertial",
@@ -1143,7 +1143,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2768,
+            "stars": 2769,
             "topics": [
               "gtsam",
               "ieee",
@@ -1180,7 +1180,7 @@
             "open_issues": 126,
             "owner": "koide3",
             "repo": "hdl_graph_slam",
-            "stars": 2342,
+            "stars": 2343,
             "topics": [
               "hdl-graph-slam",
               "lidar",
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:39:48.103Z",
+    "last_updated": "2026-11-03T21:56:26.287Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
