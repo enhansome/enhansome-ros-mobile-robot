@@ -15,11 +15,11 @@
             "id": 148210342,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-17T14:21:33Z",
-            "open_issues": 175,
+            "last_commit": "2026-11-19T08:50:27Z",
+            "open_issues": 176,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,8 +39,8 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-18T14:55:41Z",
-            "open_issues": 53,
+            "last_commit": "2026-11-19T19:59:18Z",
+            "open_issues": 51,
             "owner": "gazebosim",
             "repo": "docs",
             "stars": 91,
@@ -214,7 +214,7 @@
             "open_issues": 45,
             "owner": "ros-industrial",
             "repo": "universal_robot",
-            "stars": 1430,
+            "stars": 1429,
             "topics": [
               "moveit",
               "ros-industrial",
@@ -289,7 +289,7 @@
             "open_issues": 14,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3486,
+            "stars": 3487,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -444,7 +444,7 @@
             "open_issues": 166,
             "owner": "leggedrobotics",
             "repo": "darknet_ros",
-            "stars": 2444,
+            "stars": 2443,
             "topics": [
               "computer-vision",
               "darknet",
@@ -474,7 +474,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34596,
+            "stars": 34602,
             "topics": [
               "caffe",
               "computer-vision",
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6073,
+            "stars": 6077,
             "topics": [
               "state-estimation",
               "vins",
@@ -732,7 +732,7 @@
             "open_issues": 214,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Fusion",
-            "stars": 4795,
+            "stars": 4797,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -834,7 +834,7 @@
             "open_issues": 6,
             "owner": "johannes-graeter",
             "repo": "limo",
-            "stars": 897,
+            "stars": 898,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -958,7 +958,7 @@
             "open_issues": 6,
             "owner": "hanmekim",
             "repo": "SceneLib2",
-            "stars": 380,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1000,7 +1000,7 @@
             "open_issues": 575,
             "owner": "UZ-SLAMLab",
             "repo": "ORB_SLAM3",
-            "stars": 9260,
+            "stars": 9262,
             "topics": [
               "slam-algorithms"
             ]
@@ -1045,10 +1045,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-11-16T02:34:05Z",
-            "open_issues": 557,
+            "open_issues": 558,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1557,
+            "stars": 1558,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1107,11 +1107,11 @@
             "id": 276269866,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2025-02-14T10:05:51Z",
+            "last_commit": "2026-11-19T20:49:42Z",
             "open_issues": 186,
             "owner": "TixiaoShan",
             "repo": "LIO-SAM",
-            "stars": 4984,
+            "stars": 4983,
             "topics": [
               "3d-mapping",
               "lidar-inertial",
@@ -1143,7 +1143,7 @@
             "open_issues": 40,
             "owner": "RobustFieldAutonomyLab",
             "repo": "LeGO-LOAM",
-            "stars": 2773,
+            "stars": 2771,
             "topics": [
               "gtsam",
               "ieee",
@@ -1251,7 +1251,7 @@
             "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Kimera",
-            "stars": 2148,
+            "stars": 2147,
             "topics": [
               "3d-reconstruction",
               "computer-vision",
@@ -1285,7 +1285,7 @@
             "open_issues": 77,
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1686,
+            "stars": 1687,
             "topics": [
               "mapping",
               "robotics",
@@ -1310,7 +1310,7 @@
             "open_issues": 22,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "DenseSurfelMapping",
-            "stars": 708,
+            "stars": 706,
             "topics": [
               "computer-vision",
               "drones",
@@ -1336,7 +1336,7 @@
             "open_issues": 9,
             "owner": "personalrobotics",
             "repo": "OpenChisel",
-            "stars": 509,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:03:57.722Z",
+    "last_updated": "2026-11-19T23:11:29.339Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
@@ -1358,7 +1358,7 @@
       "open_issues": 10,
       "owner": "shannon112",
       "repo": "awesome-ros-mobile-robot",
-      "stars": 502,
+      "stars": 503,
       "topics": [
         "awesome-list",
         "manipulation",
