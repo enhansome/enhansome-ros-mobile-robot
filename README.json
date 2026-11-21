@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "CC-BY-4.0",
             "last_commit": "2026-11-19T08:50:27Z",
-            "open_issues": 177,
+            "open_issues": 178,
             "owner": "ros2",
             "repo": "ros2_documentation",
-            "stars": 1072,
+            "stars": 1073,
             "topics": [
               "hacktoberfest",
               "ros"
@@ -39,7 +39,7 @@
             "id": 255865180,
             "language": "Python",
             "license": "CC-BY-4.0",
-            "last_commit": "2026-11-20T14:42:55Z",
+            "last_commit": "2026-11-21T14:00:23Z",
             "open_issues": 51,
             "owner": "gazebosim",
             "repo": "docs",
@@ -289,7 +289,7 @@
             "open_issues": 11,
             "owner": "realsenseai",
             "repo": "realsense-ros",
-            "stars": 3487,
+            "stars": 3488,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -474,7 +474,7 @@
             "open_issues": 360,
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34604,
+            "stars": 34607,
             "topics": [
               "caffe",
               "computer-vision",
@@ -623,7 +623,7 @@
             "open_issues": 293,
             "owner": "HKUST-Aerial-Robotics",
             "repo": "VINS-Mono",
-            "stars": 6078,
+            "stars": 6079,
             "topics": [
               "state-estimation",
               "vins",
@@ -908,7 +908,7 @@
                 "open_issues": 5,
                 "owner": "RainerKuemmerle",
                 "repo": "g2o",
-                "stars": 3479,
+                "stars": 3480,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1048,7 +1048,7 @@
             "open_issues": 560,
             "owner": "introlab",
             "repo": "rtabmap_ros",
-            "stars": 1559,
+            "stars": 1560,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:54.340Z"
@@ -1346,7 +1346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:47:09.047Z",
+    "last_updated": "2026-11-21T21:50:52.938Z",
     "original_repository_info": {
       "archived": false,
       "description": " 😎 A curated list of awesome mobile robots study resources based on ROS (including SLAM, odometry and navigation, manipulation)",
